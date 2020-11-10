@@ -1,0 +1,10 @@
+#!/bin/bash
+
+arr=("$@")
+res=""
+for word in "${arr[@]}";
+do
+	res="$res""$word"_	
+done
+
+echo $res | rev | cut -b 2- | rev

@@ -1,0 +1,20 @@
+root         1 ?        systemd      - 4 -      /sbin/init splash
+root       621 ?        haveged      - 4 -      /usr/sbin/haveged --Foreground --verbose=1 -w 1024
+root       629 ?        thermald     - 4 -      /usr/sbin/thermald --no-daemon --dbus-enable
+root       630 ?        acpid        - 4 -      /usr/sbin/acpid
+root       635 ?        NetworkM     - 4 -      /usr/sbin/NetworkManager --no-daemon
+root       639 ?        wpa_supp     - 4 -      /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       641 ?        irqbalan     - 4 -      /usr/sbin/irqbalance --foreground
+root       643 ?        cron         - 4 -      /usr/sbin/cron -f
+syslog     650 ?        rsyslogd     - 4 -      /usr/sbin/rsyslogd -n -iNONE
+root       651 ?        ModemMan     - 4 -      /usr/sbin/ModemManager --filter-policy=strict
+root       653 ?        iio-sens     - 4 -      /usr/sbin/iio-sensor-proxy
+root       850 ?        nmbd         - 4 -      /usr/sbin/nmbd --foreground --no-process-group
+kernoops   861 ?        kerneloo     - 1 -      /usr/sbin/kerneloops --test
+kernoops   865 ?        kerneloo     - 1 -      /usr/sbin/kerneloops
+root       966 ?        smbd         - 4 -      /usr/sbin/smbd --foreground --no-process-group
+root       971 ?        smbd-not     - 1 -      /usr/sbin/smbd --foreground --no-process-group
+root       972 ?        cleanupd     - 1 -      /usr/sbin/smbd --foreground --no-process-group
+root       974 ?        lpqd         - 5 -      /usr/sbin/smbd --foreground --no-process-group
+root      2234 ?        cupsd        - 4 -      /usr/sbin/cupsd -l
+root      2237 ?        cups-bro     - 4 -      /usr/sbin/cups-browsed

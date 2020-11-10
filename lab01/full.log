@@ -1,0 +1,561 @@
+	Warning: warning, (EE) error, (NI) not implemented, (??) unknown.
+[    36.855] Warning: The directory "/usr/share/fonts/X11/cyrillic" does not exist.
+[    36.855] Warning: The directory "/usr/share/fonts/X11/100dpi/" does not exist.
+[    36.855] Warning: The directory "/usr/share/fonts/X11/75dpi/" does not exist.
+[    36.856] Warning: The directory "/usr/share/fonts/X11/100dpi" does not exist.
+[    36.856] Warning: The directory "/usr/share/fonts/X11/75dpi" does not exist.
+[    37.085] Warning: Falling back to old probe method for fbdev
+	(++) from command line, (!!) notice, Information: informational,
+[    36.856] Information: The server relies on udev to provide the list of input devices.
+[    36.856] Information: Loader magic: 0x5635fcf79020
+[    36.856] Information: Module ABI versions:
+[    36.858] Information: systemd-logind: logind integration requires -keeptty and -keeptty was not provided, disabling logind integration
+[    36.861] Information: xfree86: Adding drm device (/dev/dri/card0)
+[    36.877] Information: LoadModule: "glx"
+[    36.906] Information: Loading /usr/lib/xorg/modules/extensions/libglx.so
+[    37.037] Information: Module glx: vendor="X.Org Foundation"
+[    37.037] Information: LoadModule: "modesetting"
+[    37.038] Information: Loading /usr/lib/xorg/modules/drivers/modesetting_drv.so
+[    37.050] Information: Module modesetting: vendor="X.Org Foundation"
+[    37.050] Information: LoadModule: "fbdev"
+[    37.051] Information: Loading /usr/lib/xorg/modules/drivers/fbdev_drv.so
+[    37.054] Information: Module fbdev: vendor="X.Org Foundation"
+[    37.054] Information: LoadModule: "vesa"
+[    37.054] Information: Loading /usr/lib/xorg/modules/drivers/vesa_drv.so
+[    37.079] Information: Module vesa: vendor="X.Org Foundation"
+[    37.080] Information: modesetting: Driver for Modesetting Kernel Drivers: kms
+[    37.080] Information: FBDEV: driver for framebuffer: fbdev
+[    37.080] Information: VESA: driver for VESA chipsets: vesa
+[    37.085] Information: modeset(0): using drv /dev/dri/card0
+[    37.085] Information: Loading sub module "fbdevhw"
+[    37.085] Information: LoadModule: "fbdevhw"
+[    37.085] Information: Loading /usr/lib/xorg/modules/libfbdevhw.so
+[    37.094] Information: Module fbdevhw: vendor="X.Org Foundation"
+[    37.095] Information: modeset(0): Creating default Display subsection in Screen section
+[    37.095] Information: Loading sub module "glamoregl"
+[    37.095] Information: LoadModule: "glamoregl"
+[    37.095] Information: Loading /usr/lib/xorg/modules/libglamoregl.so
+[    37.179] Information: Module glamoregl: vendor="X.Org Foundation"
+[    38.659] Information: modeset(0): glamor X acceleration enabled on Mesa DRI Intel(R) HD Graphics 620 (Kaby Lake GT2) 
+[    38.659] Information: modeset(0): glamor initialized
+[    38.661] Information: modeset(0): Output eDP-1 has no monitor section
+[    38.664] Information: modeset(0): Output HDMI-1 has no monitor section
+[    38.665] Information: modeset(0): Output DP-1 has no monitor section
+[    38.668] Information: modeset(0): Output HDMI-2 has no monitor section
+[    38.670] Information: modeset(0): EDID for output eDP-1
+[    38.670] Information: modeset(0): Manufacturer: BOE  Model: 697  Serial#: 0
+[    38.670] Information: modeset(0): Year: 2015  Week: 1
+[    38.670] Information: modeset(0): EDID Version: 1.4
+[    38.670] Information: modeset(0): Digital Display Input
+[    38.670] Information: modeset(0): 6 bits per channel
+[    38.670] Information: modeset(0): Digital interface is DisplayPort
+[    38.670] Information: modeset(0): Max Image Size [cm]: horiz.: 31  vert.: 17
+[    38.670] Information: modeset(0): Gamma: 2.20
+[    38.670] Information: modeset(0): No DPMS capabilities specified
+[    38.670] Information: modeset(0): Supported color encodings: RGB 4:4:4 YCrCb 4:4:4 
+[    38.670] Information: modeset(0): First detailed timing is preferred mode
+[    38.670] Information: modeset(0): Preferred mode is native pixel format and refresh rate
+[    38.670] Information: modeset(0): redX: 0.590 redY: 0.350   greenX: 0.329 greenY: 0.555
+[    38.670] Information: modeset(0): blueX: 0.152 blueY: 0.118   whiteX: 0.312 whiteY: 0.328
+[    38.670] Information: modeset(0): Manufacturer's mask: 0
+[    38.670] Information: modeset(0): Supported detailed timing:
+[    38.670] Information: modeset(0): clock: 70.1 MHz   Image Size:  309 x 173 mm
+[    38.670] Information: modeset(0): h_active: 1366  h_sync: 1414  h_sync_end 1446 h_blank_end 1498 h_border: 0
+[    38.670] Information: modeset(0): v_active: 768  v_sync: 772  v_sync_end 776 v_blanking: 780 v_border: 0
+[    38.670] Information: modeset(0): Supported detailed timing:
+[    38.670] Information: modeset(0): clock: 46.7 MHz   Image Size:  309 x 173 mm
+[    38.670] Information: modeset(0): h_active: 1366  h_sync: 1414  h_sync_end 1446 h_blank_end 1498 h_border: 0
+[    38.670] Information: modeset(0): v_active: 768  v_sync: 772  v_sync_end 776 v_blanking: 780 v_border: 0
+[    38.670] Information: modeset(0): Unknown vendor-specific block 2
+[    38.670] Information: modeset(0): EDID (in hex):
+[    38.670] Information: modeset(0): 	00ffffffffffff0009e5970600000000
+[    38.670] Information: modeset(0): 	01190104951f11780a24109759548e27
+[    38.670] Information: modeset(0): 	1e505400000001010101010101010101
+[    38.670] Information: modeset(0): 	010101010101641b568450000c303020
+[    38.670] Information: modeset(0): 	440035ad1000001a3e12568450000c30
+[    38.670] Information: modeset(0): 	3020440035ad1000001a000000000000
+[    38.671] Information: modeset(0): 	00000000000000000000000000000002
+[    38.671] Information: modeset(0): 	000c46f90b3c6e0b0f19700000000096
+[    38.671] Information: modeset(0): Printing probed modes for output eDP-1
+[    38.671] Information: modeset(0): Modeline "1366x768"x60.0   70.12  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (46.8 kHz eP)
+[    38.671] Information: modeset(0): Modeline "1366x768"x40.0   46.70  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (31.2 kHz e)
+[    38.671] Information: modeset(0): Modeline "1360x768"x59.8   84.75  1360 1432 1568 1776  768 771 781 798 -hsync +vsync (47.7 kHz d)
+[    38.671] Information: modeset(0): Modeline "1360x768"x60.0   72.00  1360 1408 1440 1520  768 771 781 790 +hsync -vsync (47.4 kHz d)
+[    38.671] Information: modeset(0): Modeline "1280x720"x120.0  156.12  1280 1376 1512 1744  720 721 724 746 doublescan -hsync +vsync (89.5 kHz d)
+[    38.671] Information: modeset(0): Modeline "1280x720"x120.0  120.75  1280 1304 1320 1360  720 721 724 740 doublescan +hsync -vsync (88.8 kHz d)
+[    38.671] Information: modeset(0): Modeline "1280x720"x59.9   74.50  1280 1344 1472 1664  720 723 728 748 -hsync +vsync (44.8 kHz d)
+[    38.671] Information: modeset(0): Modeline "1280x720"x59.7   63.75  1280 1328 1360 1440  720 723 728 741 +hsync -vsync (44.3 kHz d)
+[    38.671] Information: modeset(0): Modeline "1024x768"x120.1  133.47  1024 1100 1212 1400  768 768 770 794 doublescan -hsync +vsync (95.3 kHz d)
+[    38.671] Information: modeset(0): Modeline "1024x768"x60.0   65.00  1024 1048 1184 1344  768 771 777 806 -hsync -vsync (48.4 kHz d)
+[    38.671] Information: modeset(0): Modeline "960x720"x120.0  117.00  960 1024 1128 1300  720 720 722 750 doublescan -hsync +vsync (90.0 kHz d)
+[    38.671] Information: modeset(0): Modeline "928x696"x120.1  109.15  928 976 1088 1264  696 696 698 719 doublescan -hsync +vsync (86.4 kHz d)
+[    38.671] Information: modeset(0): Modeline "896x672"x120.0  102.40  896 960 1060 1224  672 672 674 697 doublescan -hsync +vsync (83.7 kHz d)
+[    38.671] Information: modeset(0): Modeline "1024x576"x119.9   98.50  1024 1092 1200 1376  576 577 580 597 doublescan -hsync +vsync (71.6 kHz d)
+[    38.672] Information: modeset(0): Modeline "1024x576"x119.9   78.38  1024 1048 1064 1104  576 577 580 592 doublescan +hsync -vsync (71.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "1024x576"x59.9   46.50  1024 1064 1160 1296  576 579 584 599 -hsync +vsync (35.9 kHz d)
+[    38.672] Information: modeset(0): Modeline "1024x576"x59.8   42.00  1024 1072 1104 1184  576 579 584 593 +hsync -vsync (35.5 kHz d)
+[    38.672] Information: modeset(0): Modeline "960x600"x119.9   96.62  960 1028 1128 1296  600 601 604 622 doublescan -hsync +vsync (74.6 kHz d)
+[    38.672] Information: modeset(0): Modeline "960x600"x120.0   77.00  960 984 1000 1040  600 601 604 617 doublescan +hsync -vsync (74.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "960x540"x119.9   86.50  960 1024 1124 1288  540 541 544 560 doublescan -hsync +vsync (67.2 kHz d)
+[    38.672] Information: modeset(0): Modeline "960x540"x120.0   69.25  960 984 1000 1040  540 541 544 555 doublescan +hsync -vsync (66.6 kHz d)
+[    38.672] Information: modeset(0): Modeline "960x540"x59.6   40.75  960 992 1088 1216  540 543 548 562 -hsync +vsync (33.5 kHz d)
+[    38.672] Information: modeset(0): Modeline "960x540"x59.8   37.25  960 1008 1040 1120  540 543 548 556 +hsync -vsync (33.3 kHz d)
+[    38.672] Information: modeset(0): Modeline "800x600"x120.0   81.00  800 832 928 1080  600 600 602 625 doublescan +hsync +vsync (75.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "800x600"x60.3   40.00  800 840 968 1056  600 601 605 628 +hsync +vsync (37.9 kHz d)
+[    38.672] Information: modeset(0): Modeline "800x600"x56.2   36.00  800 824 896 1024  600 601 603 625 +hsync +vsync (35.2 kHz d)
+[    38.672] Information: modeset(0): Modeline "840x525"x120.0   73.12  840 892 980 1120  525 526 529 544 doublescan -hsync +vsync (65.3 kHz d)
+[    38.672] Information: modeset(0): Modeline "840x525"x119.8   59.50  840 864 880 920  525 526 529 540 doublescan +hsync -vsync (64.7 kHz d)
+[    38.672] Information: modeset(0): Modeline "864x486"x59.9   32.50  864 888 968 1072  486 489 494 506 -hsync +vsync (30.3 kHz d)
+[    38.672] Information: modeset(0): Modeline "864x486"x59.6   30.50  864 912 944 1024  486 489 494 500 +hsync -vsync (29.8 kHz d)
+[    38.672] Information: modeset(0): Modeline "800x512"x120.3   51.56  800 800 828 832  512 512 514 515 doublescan +hsync +vsync (62.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "700x525"x120.0   61.00  700 744 820 940  525 526 532 541 doublescan +hsync +vsync (64.9 kHz d)
+[    38.672] Information: modeset(0): Modeline "800x450"x119.9   59.12  800 848 928 1056  450 451 454 467 doublescan -hsync +vsync (56.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "800x450"x119.6   48.75  800 824 840 880  450 451 454 463 doublescan +hsync -vsync (55.4 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x512"x120.0   54.00  640 664 720 844  512 512 514 533 doublescan +hsync +vsync (64.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "720x450"x119.8   53.25  720 760 836 952  450 451 454 467 doublescan -hsync +vsync (55.9 kHz d)
+[    38.672] Information: modeset(0): Modeline "700x450"x119.9   51.75  700 740 812 924  450 451 456 467 doublescan -hsync +vsync (56.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "700x450"x119.8   43.25  700 724 740 780  450 451 456 463 doublescan +hsync -vsync (55.4 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x480"x120.0   54.00  640 688 744 900  480 480 482 500 doublescan +hsync +vsync (60.0 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x480"x59.9   25.18  640 656 752 800  480 490 492 525 -hsync -vsync (31.5 kHz d)
+[    38.672] Information: modeset(0): Modeline "720x405"x59.5   22.50  720 744 808 896  405 408 413 422 -hsync +vsync (25.1 kHz d)
+[    38.672] Information: modeset(0): Modeline "720x405"x59.0   21.75  720 768 800 880  405 408 413 419 +hsync -vsync (24.7 kHz d)
+[    38.672] Information: modeset(0): Modeline "684x384"x119.8   42.62  684 720 788 892  384 385 390 399 doublescan -hsync +vsync (47.8 kHz d)
+[    38.672] Information: modeset(0): Modeline "684x384"x119.7   36.12  684 708 724 764  384 385 390 395 doublescan +hsync -vsync (47.3 kHz d)
+[    38.672] Information: modeset(0): Modeline "680x384"x119.6   42.38  680 716 784 888  384 385 390 399 doublescan -hsync +vsync (47.7 kHz d)
+[    38.672] Information: modeset(0): Modeline "680x384"x119.9   36.00  680 704 720 760  384 385 390 395 doublescan +hsync -vsync (47.4 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x400"x119.8   41.75  640 676 740 840  400 401 404 415 doublescan -hsync +vsync (49.7 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x400"x120.0   35.50  640 664 680 720  400 401 404 411 doublescan +hsync -vsync (49.3 kHz d)
+[    38.672] Information: modeset(0): Modeline "576x432"x120.1   40.81  576 608 668 760  432 432 434 447 doublescan -hsync +vsync (53.7 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x360"x119.7   37.25  640 672 736 832  360 361 364 374 doublescan -hsync +vsync (44.8 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x360"x119.7   31.88  640 664 680 720  360 361 364 370 doublescan +hsync -vsync (44.3 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x360"x59.8   18.00  640 664 720 800  360 363 368 376 -hsync +vsync (22.5 kHz d)
+[    38.672] Information: modeset(0): Modeline "640x360"x59.3   17.75  640 688 720 800  360 363 368 374 +hsync -vsync (22.2 kHz d)
+[    38.672] Information: modeset(0): Modeline "512x384"x120.0   32.50  512 524 592 672  384 385 388 403 doublescan -hsync -vsync (48.4 kHz d)
+[    38.672] Information: modeset(0): Modeline "512x288"x120.0   23.25  512 532 580 648  288 289 292 299 doublescan -hsync +vsync (35.9 kHz d)
+[    38.672] Information: modeset(0): Modeline "512x288"x119.8   21.00  512 536 552 592  288 289 292 296 doublescan +hsync -vsync (35.5 kHz d)
+[    38.673] Information: modeset(0): Modeline "480x270"x119.3   20.38  480 496 544 608  270 271 274 281 doublescan -hsync +vsync (33.5 kHz d)
+[    38.673] Information: modeset(0): Modeline "480x270"x119.6   18.62  480 504 520 560  270 271 274 278 doublescan +hsync -vsync (33.3 kHz d)
+[    38.673] Information: modeset(0): Modeline "400x300"x120.6   20.00  400 420 484 528  300 300 302 314 doublescan +hsync +vsync (37.9 kHz d)
+[    38.673] Information: modeset(0): Modeline "400x300"x112.7   18.00  400 412 448 512  300 300 301 312 doublescan +hsync +vsync (35.2 kHz d)
+[    38.673] Information: modeset(0): Modeline "432x243"x119.8   16.25  432 444 484 536  243 244 247 253 doublescan -hsync +vsync (30.3 kHz d)
+[    38.673] Information: modeset(0): Modeline "432x243"x119.1   15.25  432 456 472 512  243 244 247 250 doublescan +hsync -vsync (29.8 kHz d)
+[    38.673] Information: modeset(0): Modeline "320x240"x120.1   12.59  320 328 376 400  240 245 246 262 doublescan -hsync -vsync (31.5 kHz d)
+[    38.673] Information: modeset(0): Modeline "360x202"x119.0   11.25  360 372 404 448  202 204 206 211 doublescan -hsync +vsync (25.1 kHz d)
+[    38.673] Information: modeset(0): Modeline "360x202"x118.3   10.88  360 384 400 440  202 204 206 209 doublescan +hsync -vsync (24.7 kHz d)
+[    38.673] Information: modeset(0): Modeline "320x180"x119.7    9.00  320 332 360 400  180 181 184 188 doublescan -hsync +vsync (22.5 kHz d)
+[    38.673] Information: modeset(0): Modeline "320x180"x118.6    8.88  320 344 360 400  180 181 184 187 doublescan +hsync -vsync (22.2 kHz d)
+[    38.676] Information: modeset(0): EDID for output HDMI-1
+[    38.676] Information: modeset(0): EDID for output DP-1
+[    38.680] Information: modeset(0): EDID for output HDMI-2
+[    38.680] Information: modeset(0): Output eDP-1 connected
+[    38.680] Information: modeset(0): Output HDMI-1 disconnected
+[    38.680] Information: modeset(0): Output DP-1 disconnected
+[    38.680] Information: modeset(0): Output HDMI-2 disconnected
+[    38.680] Information: modeset(0): Using exact sizes for initial modes
+[    38.680] Information: modeset(0): Output eDP-1 using initial mode 1366x768 +0+0
+[    38.680] Information: Loading sub module "fb"
+[    38.680] Information: LoadModule: "fb"
+[    38.680] Information: Loading /usr/lib/xorg/modules/libfb.so
+[    38.744] Information: Module fb: vendor="X.Org Foundation"
+[    38.744] Information: UnloadModule: "fbdev"
+[    38.744] Information: Unloading fbdev
+[    38.744] Information: UnloadSubModule: "fbdevhw"
+[    38.744] Information: Unloading fbdevhw
+[    38.744] Information: UnloadModule: "vesa"
+[    38.744] Information: Unloading vesa
+[    39.102] Information: modeset(0): Initializing kms color map for depth 24, 8 bpc.
+[    39.103] Information: modeset(0): [DRI2] Setup complete
+[    39.103] Information: modeset(0): [DRI2]   DRI driver: i965
+[    39.103] Information: modeset(0): [DRI2]   VDPAU driver: va_gl
+[    39.103] Information: Initializing extension Generic Event Extension
+[    39.103] Information: Initializing extension SHAPE
+[    39.104] Information: Initializing extension MIT-SHM
+[    39.104] Information: Initializing extension XInputExtension
+[    39.105] Information: Initializing extension XTEST
+[    39.105] Information: Initializing extension BIG-REQUESTS
+[    39.106] Information: Initializing extension SYNC
+[    39.106] Information: Initializing extension XKEYBOARD
+[    39.106] Information: Initializing extension XC-MISC
+[    39.106] Information: Initializing extension SECURITY
+[    39.107] Information: Initializing extension XFIXES
+[    39.107] Information: Initializing extension RENDER
+[    39.107] Information: Initializing extension RANDR
+[    39.108] Information: Initializing extension COMPOSITE
+[    39.109] Information: Initializing extension DAMAGE
+[    39.109] Information: Initializing extension MIT-SCREEN-SAVER
+[    39.109] Information: Initializing extension DOUBLE-BUFFER
+[    39.109] Information: Initializing extension RECORD
+[    39.110] Information: Initializing extension DPMS
+[    39.110] Information: Initializing extension Present
+[    39.110] Information: Initializing extension DRI3
+[    39.111] Information: Initializing extension X-Resource
+[    39.111] Information: Initializing extension XVideo
+[    39.111] Information: Initializing extension XVideo-MotionCompensation
+[    39.111] Information: Initializing extension SELinux
+[    39.111] Information: SELinux: Disabled on system
+[    39.111] Information: Initializing extension GLX
+[    39.129] Information: AIGLX: Loaded and initialized i965
+[    39.129] Information: GLX: Initialized DRI2 GL provider for screen 0
+[    39.129] Information: Initializing extension XFree86-VidModeExtension
+[    39.129] Information: Initializing extension XFree86-DGA
+[    39.129] Information: Initializing extension XFree86-DRI
+[    39.129] Information: Initializing extension DRI2
+[    39.480] Information: modeset(0): Damage tracking initialized
+[    39.480] Information: modeset(0): Setting screen physical size to 361 x 203
+[    40.485] Information: config/udev: Adding input device Power Button (/dev/input/event2)
+[    40.485] Information: LoadModule: "libinput"
+[    40.485] Information: Loading /usr/lib/xorg/modules/input/libinput_drv.so
+[    40.550] Information: Module libinput: vendor="X.Org Foundation"
+[    40.550] Information: Using input driver 'libinput' for 'Power Button'
+[    40.584] Information: event2  - Power Button: is tagged by udev as: Keyboard
+[    40.584] Information: event2  - Power Button: device is a keyboard
+[    40.584] Information: event2  - Power Button: device removed
+[    40.604] Information: XINPUT: Adding extended input device "Power Button" (type: KEYBOARD, id 6)
+[    40.655] Information: event2  - Power Button: is tagged by udev as: Keyboard
+[    40.655] Information: event2  - Power Button: device is a keyboard
+[    40.656] Information: config/udev: Adding input device Video Bus (/dev/input/event4)
+[    40.656] Information: Using input driver 'libinput' for 'Video Bus'
+[    40.657] Information: event4  - Video Bus: is tagged by udev as: Keyboard
+[    40.657] Information: event4  - Video Bus: device is a keyboard
+[    40.657] Information: event4  - Video Bus: device removed
+[    40.676] Information: XINPUT: Adding extended input device "Video Bus" (type: KEYBOARD, id 7)
+[    40.678] Information: event4  - Video Bus: is tagged by udev as: Keyboard
+[    40.678] Information: event4  - Video Bus: device is a keyboard
+[    40.679] Information: config/udev: Adding input device Lid Switch (/dev/input/event1)
+[    40.679] Information: No input driver specified, ignoring this device.
+[    40.679] Information: This device may have been added with another device file.
+[    40.680] Information: config/udev: Adding input device Sleep Button (/dev/input/event0)
+[    40.680] Information: Using input driver 'libinput' for 'Sleep Button'
+[    40.681] Information: event0  - Sleep Button: is tagged by udev as: Keyboard
+[    40.681] Information: event0  - Sleep Button: device is a keyboard
+[    40.681] Information: event0  - Sleep Button: device removed
+[    40.712] Information: XINPUT: Adding extended input device "Sleep Button" (type: KEYBOARD, id 8)
+[    40.717] Information: event0  - Sleep Button: is tagged by udev as: Keyboard
+[    40.717] Information: event0  - Sleep Button: device is a keyboard
+[    40.722] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event5)
+[    40.723] Information: Using input driver 'libinput' for 'COMPANY USB Device'
+[    40.728] Information: event5  - COMPANY USB Device: is tagged by udev as: Keyboard
+[    40.729] Information: event5  - COMPANY USB Device: device is a keyboard
+[    40.729] Information: event5  - COMPANY USB Device: device removed
+[    40.752] Information: XINPUT: Adding extended input device "COMPANY USB Device" (type: KEYBOARD, id 9)
+[    40.760] Information: event5  - COMPANY USB Device: is tagged by udev as: Keyboard
+[    40.760] Information: event5  - COMPANY USB Device: device is a keyboard
+[    40.764] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event6)
+[    40.764] Information: Using input driver 'libinput' for 'COMPANY USB Device'
+[    40.828] Information: event6  - COMPANY USB Device: is tagged by udev as: Mouse
+[    40.828] Information: event6  - COMPANY USB Device: device is a pointer
+[    40.828] Information: event6  - COMPANY USB Device: device removed
+[    40.880] Information: XINPUT: Adding extended input device "COMPANY USB Device" (type: MOUSE, id 10)
+[    40.944] Information: event6  - COMPANY USB Device: is tagged by udev as: Mouse
+[    40.944] Information: event6  - COMPANY USB Device: device is a pointer
+[    40.946] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/mouse0)
+[    40.946] Information: No input driver specified, ignoring this device.
+[    40.946] Information: This device may have been added with another device file.
+[    40.948] Information: config/udev: Adding input device COMPANY USB Device Keyboard (/dev/input/event7)
+[    40.948] Information: Using input driver 'libinput' for 'COMPANY USB Device Keyboard'
+[    40.955] Information: event7  - COMPANY USB Device Keyboard: is tagged by udev as: Keyboard
+[    40.955] Information: event7  - COMPANY USB Device Keyboard: device is a keyboard
+[    40.956] Information: event7  - COMPANY USB Device Keyboard: device removed
+[    41.000] Information: XINPUT: Adding extended input device "COMPANY USB Device Keyboard" (type: KEYBOARD, id 11)
+[    41.006] Information: event7  - COMPANY USB Device Keyboard: is tagged by udev as: Keyboard
+[    41.007] Information: event7  - COMPANY USB Device Keyboard: device is a keyboard
+[    41.010] Information: config/udev: Adding input device COMPANY USB Device System Control (/dev/input/event8)
+[    41.010] Information: Using input driver 'libinput' for 'COMPANY USB Device System Control'
+[    41.014] Information: event8  - COMPANY USB Device System Control: is tagged by udev as: Keyboard
+[    41.014] Information: event8  - COMPANY USB Device System Control: device is a keyboard
+[    41.015] Information: event8  - COMPANY USB Device System Control: device removed
+[    41.032] Information: XINPUT: Adding extended input device "COMPANY USB Device System Control" (type: KEYBOARD, id 12)
+[    41.037] Information: event8  - COMPANY USB Device System Control: is tagged by udev as: Keyboard
+[    41.037] Information: event8  - COMPANY USB Device System Control: device is a keyboard
+[    41.040] Information: config/udev: Adding input device COMPANY USB Device Consumer Control (/dev/input/event9)
+[    41.040] Information: Using input driver 'libinput' for 'COMPANY USB Device Consumer Control'
+[    41.044] Information: event9  - COMPANY USB Device Consumer Control: is tagged by udev as: Keyboard
+[    41.044] Information: event9  - COMPANY USB Device Consumer Control: device is a keyboard
+[    41.045] Information: event9  - COMPANY USB Device Consumer Control: device removed
+[    41.072] Information: libinput: COMPANY USB Device Consumer Control: needs a virtual subdevice
+[    41.073] Information: XINPUT: Adding extended input device "COMPANY USB Device Consumer Control" (type: MOUSE, id 13)
+[    41.077] Information: event9  - COMPANY USB Device Consumer Control: is tagged by udev as: Keyboard
+[    41.077] Information: event9  - COMPANY USB Device Consumer Control: device is a keyboard
+[    41.079] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event10)
+[    41.079] Information: No input driver specified, ignoring this device.
+[    41.079] Information: This device may have been added with another device file.
+[    41.081] Information: config/udev: Adding input device HP HD Camera: HP HD Camera (/dev/input/event21)
+[    41.081] Information: Using input driver 'libinput' for 'HP HD Camera: HP HD Camera'
+[    41.085] Information: event21 - HP HD Camera: HP HD Camera: is tagged by udev as: Keyboard
+[    41.085] Information: event21 - HP HD Camera: HP HD Camera: device is a keyboard
+[    41.085] Information: event21 - HP HD Camera: HP HD Camera: device removed
+[    41.120] Information: XINPUT: Adding extended input device "HP HD Camera: HP HD Camera" (type: KEYBOARD, id 14)
+[    41.124] Information: event21 - HP HD Camera: HP HD Camera: is tagged by udev as: Keyboard
+[    41.124] Information: event21 - HP HD Camera: HP HD Camera: device is a keyboard
+[    41.126] Information: config/udev: Adding input device HDA Intel PCH Mic (/dev/input/event14)
+[    41.126] Information: No input driver specified, ignoring this device.
+[    41.126] Information: This device may have been added with another device file.
+[    41.127] Information: config/udev: Adding input device HDA Intel PCH Headphone (/dev/input/event15)
+[    41.127] Information: No input driver specified, ignoring this device.
+[    41.127] Information: This device may have been added with another device file.
+[    41.128] Information: config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=3 (/dev/input/event16)
+[    41.128] Information: No input driver specified, ignoring this device.
+[    41.128] Information: This device may have been added with another device file.
+[    41.129] Information: config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=7 (/dev/input/event17)
+[    41.129] Information: No input driver specified, ignoring this device.
+[    41.129] Information: This device may have been added with another device file.
+[    41.130] Information: config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=8 (/dev/input/event18)
+[    41.130] Information: No input driver specified, ignoring this device.
+[    41.130] Information: This device may have been added with another device file.
+[    41.131] Information: config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=9 (/dev/input/event19)
+[    41.131] Information: No input driver specified, ignoring this device.
+[    41.131] Information: This device may have been added with another device file.
+[    41.132] Information: config/udev: Adding input device HDA Intel PCH HDMI/DP,pcm=10 (/dev/input/event20)
+[    41.132] Information: No input driver specified, ignoring this device.
+[    41.132] Information: This device may have been added with another device file.
+[    41.134] Information: config/udev: Adding input device AT Translated Set 2 keyboard (/dev/input/event3)
+[    41.134] Information: Using input driver 'libinput' for 'AT Translated Set 2 keyboard'
+[    41.137] Information: event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[    41.137] Information: event3  - AT Translated Set 2 keyboard: device is a keyboard
+[    41.139] Information: event3  - AT Translated Set 2 keyboard: device removed
+[    41.164] Information: XINPUT: Adding extended input device "AT Translated Set 2 keyboard" (type: KEYBOARD, id 15)
+[    41.168] Information: event3  - AT Translated Set 2 keyboard: is tagged by udev as: Keyboard
+[    41.168] Information: event3  - AT Translated Set 2 keyboard: device is a keyboard
+[    41.171] Information: config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/event11)
+[    41.172] Information: Using input driver 'libinput' for 'SynPS/2 Synaptics TouchPad'
+[    41.175] Information: event11 - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[    41.178] Information: event11 - SynPS/2 Synaptics TouchPad: device is a touchpad
+[    41.178] Information: event11 - SynPS/2 Synaptics TouchPad: device removed
+[    41.209] Information: XINPUT: Adding extended input device "SynPS/2 Synaptics TouchPad" (type: TOUCHPAD, id 16)
+[    41.218] Information: event11 - SynPS/2 Synaptics TouchPad: is tagged by udev as: Touchpad
+[    41.223] Information: event11 - SynPS/2 Synaptics TouchPad: device is a touchpad
+[    41.226] Information: config/udev: Adding input device SynPS/2 Synaptics TouchPad (/dev/input/mouse1)
+[    41.226] Information: No input driver specified, ignoring this device.
+[    41.226] Information: This device may have been added with another device file.
+[    41.227] Information: config/udev: Adding input device ST LIS3LV02DL Accelerometer (/dev/input/event22)
+[    41.227] Information: No input driver specified, ignoring this device.
+[    41.227] Information: This device may have been added with another device file.
+[    41.229] Information: config/udev: Adding input device ST LIS3LV02DL Accelerometer (/dev/input/js0)
+[    41.229] Information: No input driver specified, ignoring this device.
+[    41.229] Information: This device may have been added with another device file.
+[    41.237] Information: config/udev: Adding input device HP Wireless hotkeys (/dev/input/event12)
+[    41.237] Information: Using input driver 'libinput' for 'HP Wireless hotkeys'
+[    41.238] Information: event12 - HP Wireless hotkeys: is tagged by udev as: Keyboard
+[    41.238] Information: event12 - HP Wireless hotkeys: device is a keyboard
+[    41.239] Information: event12 - HP Wireless hotkeys: device removed
+[    41.292] Information: XINPUT: Adding extended input device "HP Wireless hotkeys" (type: KEYBOARD, id 17)
+[    41.294] Information: event12 - HP Wireless hotkeys: is tagged by udev as: Keyboard
+[    41.295] Information: event12 - HP Wireless hotkeys: device is a keyboard
+[    41.296] Information: config/udev: Adding input device HP WMI hotkeys (/dev/input/event13)
+[    41.296] Information: Using input driver 'libinput' for 'HP WMI hotkeys'
+[    41.298] Information: event13 - HP WMI hotkeys: is tagged by udev as: Keyboard Switch
+[    41.298] Information: event13 - HP WMI hotkeys: device is a keyboard
+[    41.298] Information: event13 - HP WMI hotkeys: device removed
+[    41.316] Information: XINPUT: Adding extended input device "HP WMI hotkeys" (type: KEYBOARD, id 18)
+[    41.318] Information: event13 - HP WMI hotkeys: is tagged by udev as: Keyboard Switch
+[    41.319] Information: event13 - HP WMI hotkeys: device is a keyboard
+[    41.334] Information: Using input driver 'libinput' for 'COMPANY USB Device Consumer Control'
+[    41.335] Information: libinput: COMPANY USB Device Consumer Control: is a virtual subdevice
+[    41.335] Information: XINPUT: Adding extended input device "COMPANY USB Device Consumer Control" (type: KEYBOARD, id 19)
+[   236.767] Information: modeset(0): EDID vendor "BOE", prod id 1687
+[   236.767] Information: modeset(0): Printing DDC gathered Modelines:
+[   236.767] Information: modeset(0): Modeline "1366x768"x0.0   70.12  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (46.8 kHz eP)
+[   236.768] Information: modeset(0): Modeline "1366x768"x0.0   46.70  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (31.2 kHz e)
+[   239.039] Information: modeset(0): EDID vendor "BOE", prod id 1687
+[   239.039] Information: modeset(0): Printing DDC gathered Modelines:
+[   239.039] Information: modeset(0): Modeline "1366x768"x0.0   70.12  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (46.8 kHz eP)
+[   239.039] Information: modeset(0): Modeline "1366x768"x0.0   46.70  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (31.2 kHz e)
+[  1161.570] Information: event6  - COMPANY USB Device: SYN_DROPPED event - some input events have been lost.
+[  6646.037] Information: config/udev: removing device COMPANY USB Device
+[  6646.037] Information: event5  - COMPANY USB Device: device removed
+[  6646.073] Information: UnloadModule: "libinput"
+[  6646.125] Information: config/udev: removing device COMPANY USB Device
+[  6646.126] Information: event6  - COMPANY USB Device: device removed
+[  6646.153] Information: UnloadModule: "libinput"
+[  6646.188] Information: config/udev: removing device COMPANY USB Device Keyboard
+[  6646.188] Information: event7  - COMPANY USB Device Keyboard: device removed
+[  6646.210] Information: UnloadModule: "libinput"
+[  6646.231] Information: config/udev: removing device COMPANY USB Device System Control
+[  6646.231] Information: event8  - COMPANY USB Device System Control: device removed
+[  6646.259] Information: UnloadModule: "libinput"
+[  6646.282] Information: config/udev: removing device COMPANY USB Device Consumer Control
+[  6646.287] Information: UnloadModule: "libinput"
+[  6646.287] Information: config/udev: removing device COMPANY USB Device Consumer Control
+[  6646.287] Information: event9  - COMPANY USB Device Consumer Control: device removed
+[  6646.317] Information: UnloadModule: "libinput"
+[  8523.955] Information: modeset(0): EDID vendor "BOE", prod id 1687
+[  8523.955] Information: modeset(0): Printing DDC gathered Modelines:
+[  8523.955] Information: modeset(0): Modeline "1366x768"x0.0   70.12  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (46.8 kHz eP)
+[  8523.955] Information: modeset(0): Modeline "1366x768"x0.0   46.70  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (31.2 kHz e)
+[  8524.854] Information: modeset(0): EDID vendor "BOE", prod id 1687
+[  8524.854] Information: modeset(0): Printing DDC gathered Modelines:
+[  8524.854] Information: modeset(0): Modeline "1366x768"x0.0   70.12  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (46.8 kHz eP)
+[  8524.854] Information: modeset(0): Modeline "1366x768"x0.0   46.70  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (31.2 kHz e)
+[  9460.334] Information: modeset(0): EDID vendor "BOE", prod id 1687
+[  9460.334] Information: modeset(0): Printing DDC gathered Modelines:
+[  9460.334] Information: modeset(0): Modeline "1366x768"x0.0   70.12  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (46.8 kHz eP)
+[  9460.334] Information: modeset(0): Modeline "1366x768"x0.0   46.70  1366 1414 1446 1498  768 772 776 780 +hsync -vsync (31.2 kHz e)
+[ 18397.894] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/mouse0)
+[ 18397.894] Information: No input driver specified, ignoring this device.
+[ 18397.894] Information: This device may have been added with another device file.
+[ 18397.918] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event5)
+[ 18397.918] Information: Using input driver 'libinput' for 'COMPANY USB Device'
+[ 18397.920] Information: event5  - COMPANY USB Device: is tagged by udev as: Keyboard
+[ 18397.920] Information: event5  - COMPANY USB Device: device is a keyboard
+[ 18397.921] Information: event5  - COMPANY USB Device: device removed
+[ 18397.936] Information: XINPUT: Adding extended input device "COMPANY USB Device" (type: KEYBOARD, id 9)
+[ 18397.939] Information: event5  - COMPANY USB Device: is tagged by udev as: Keyboard
+[ 18397.939] Information: event5  - COMPANY USB Device: device is a keyboard
+[ 18397.941] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event10)
+[ 18397.941] Information: No input driver specified, ignoring this device.
+[ 18397.941] Information: This device may have been added with another device file.
+[ 18397.942] Information: config/udev: Adding input device COMPANY USB Device Keyboard (/dev/input/event7)
+[ 18397.942] Information: Using input driver 'libinput' for 'COMPANY USB Device Keyboard'
+[ 18397.944] Information: event7  - COMPANY USB Device Keyboard: is tagged by udev as: Keyboard
+[ 18397.944] Information: event7  - COMPANY USB Device Keyboard: device is a keyboard
+[ 18397.944] Information: event7  - COMPANY USB Device Keyboard: device removed
+[ 18397.960] Information: XINPUT: Adding extended input device "COMPANY USB Device Keyboard" (type: KEYBOARD, id 10)
+[ 18397.962] Information: event7  - COMPANY USB Device Keyboard: is tagged by udev as: Keyboard
+[ 18397.963] Information: event7  - COMPANY USB Device Keyboard: device is a keyboard
+[ 18397.964] Information: config/udev: Adding input device COMPANY USB Device Consumer Control (/dev/input/event9)
+[ 18397.964] Information: Using input driver 'libinput' for 'COMPANY USB Device Consumer Control'
+[ 18397.966] Information: event9  - COMPANY USB Device Consumer Control: is tagged by udev as: Keyboard
+[ 18397.966] Information: event9  - COMPANY USB Device Consumer Control: device is a keyboard
+[ 18397.966] Information: event9  - COMPANY USB Device Consumer Control: device removed
+[ 18397.992] Information: libinput: COMPANY USB Device Consumer Control: needs a virtual subdevice
+[ 18397.992] Information: XINPUT: Adding extended input device "COMPANY USB Device Consumer Control" (type: MOUSE, id 11)
+[ 18397.995] Information: event9  - COMPANY USB Device Consumer Control: is tagged by udev as: Keyboard
+[ 18397.995] Information: event9  - COMPANY USB Device Consumer Control: device is a keyboard
+[ 18397.996] Information: Using input driver 'libinput' for 'COMPANY USB Device Consumer Control'
+[ 18397.996] Information: libinput: COMPANY USB Device Consumer Control: is a virtual subdevice
+[ 18397.996] Information: XINPUT: Adding extended input device "COMPANY USB Device Consumer Control" (type: KEYBOARD, id 12)
+[ 18397.998] Information: config/udev: Adding input device COMPANY USB Device System Control (/dev/input/event8)
+[ 18397.998] Information: Using input driver 'libinput' for 'COMPANY USB Device System Control'
+[ 18398.001] Information: event8  - COMPANY USB Device System Control: is tagged by udev as: Keyboard
+[ 18398.001] Information: event8  - COMPANY USB Device System Control: device is a keyboard
+[ 18398.001] Information: event8  - COMPANY USB Device System Control: device removed
+[ 18398.020] Information: XINPUT: Adding extended input device "COMPANY USB Device System Control" (type: KEYBOARD, id 13)
+[ 18398.022] Information: event8  - COMPANY USB Device System Control: is tagged by udev as: Keyboard
+[ 18398.022] Information: event8  - COMPANY USB Device System Control: device is a keyboard
+[ 18398.025] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event6)
+[ 18398.025] Information: Using input driver 'libinput' for 'COMPANY USB Device'
+[ 18398.088] Information: event6  - COMPANY USB Device: is tagged by udev as: Mouse
+[ 18398.088] Information: event6  - COMPANY USB Device: device is a pointer
+[ 18398.089] Information: event6  - COMPANY USB Device: device removed
+[ 18398.136] Information: XINPUT: Adding extended input device "COMPANY USB Device" (type: MOUSE, id 19)
+[ 18398.204] Information: event6  - COMPANY USB Device: is tagged by udev as: Mouse
+[ 18398.204] Information: event6  - COMPANY USB Device: device is a pointer
+[ 26228.496] Information: event6  - COMPANY USB Device: SYN_DROPPED event - some input events have been lost.
+[ 28284.808] Information: config/udev: removing device COMPANY USB Device
+[ 28284.809] Information: event5  - COMPANY USB Device: device removed
+[ 28284.865] Information: UnloadModule: "libinput"
+[ 28284.891] Information: config/udev: removing device COMPANY USB Device
+[ 28284.891] Information: event6  - COMPANY USB Device: device removed
+[ 28284.986] Information: UnloadModule: "libinput"
+[ 28284.989] Information: config/udev: removing device COMPANY USB Device Keyboard
+[ 28284.989] Information: event7  - COMPANY USB Device Keyboard: device removed
+[ 28285.032] Information: UnloadModule: "libinput"
+[ 28285.036] Information: config/udev: removing device COMPANY USB Device System Control
+[ 28285.036] Information: event8  - COMPANY USB Device System Control: device removed
+[ 28285.099] Information: UnloadModule: "libinput"
+[ 28285.102] Information: config/udev: removing device COMPANY USB Device Consumer Control
+[ 28285.144] Information: UnloadModule: "libinput"
+[ 28285.144] Information: config/udev: removing device COMPANY USB Device Consumer Control
+[ 28285.144] Information: event9  - COMPANY USB Device Consumer Control: device removed
+[ 28285.189] Information: UnloadModule: "libinput"
+[ 30024.466] Information: config/udev: Adding input device E8:EC:A3:1D:7D:1D (/dev/input/event5)
+[ 30024.466] Information: Using input driver 'libinput' for 'E8:EC:A3:1D:7D:1D'
+[ 30024.466] Information: event5  - E8:EC:A3:1D:7D:1D: is tagged by udev as: Keyboard
+[ 30024.466] Information: event5  - E8:EC:A3:1D:7D:1D: device is a keyboard
+[ 30024.467] Information: event5  - E8:EC:A3:1D:7D:1D: device removed
+[ 30024.484] Information: XINPUT: Adding extended input device "E8:EC:A3:1D:7D:1D" (type: KEYBOARD, id 9)
+[ 30024.488] Information: event5  - E8:EC:A3:1D:7D:1D: is tagged by udev as: Keyboard
+[ 30024.488] Information: event5  - E8:EC:A3:1D:7D:1D: device is a keyboard
+[ 35919.233] Information: config/udev: removing device E8:EC:A3:1D:7D:1D
+[ 35919.234] Information: event5  - E8:EC:A3:1D:7D:1D: device removed
+[ 35919.264] Information: UnloadModule: "libinput"
+[ 46142.310] Information: config/udev: Adding input device E8:EC:A3:1D:7D:1D (/dev/input/event5)
+[ 46142.310] Information: Using input driver 'libinput' for 'E8:EC:A3:1D:7D:1D'
+[ 46142.312] Information: event5  - E8:EC:A3:1D:7D:1D: is tagged by udev as: Keyboard
+[ 46142.312] Information: event5  - E8:EC:A3:1D:7D:1D: device is a keyboard
+[ 46142.312] Information: event5  - E8:EC:A3:1D:7D:1D: device removed
+[ 46142.332] Information: XINPUT: Adding extended input device "E8:EC:A3:1D:7D:1D" (type: KEYBOARD, id 9)
+[ 46142.337] Information: event5  - E8:EC:A3:1D:7D:1D: is tagged by udev as: Keyboard
+[ 46142.337] Information: event5  - E8:EC:A3:1D:7D:1D: device is a keyboard
+[ 47357.298] Information: config/udev: removing device E8:EC:A3:1D:7D:1D
+[ 47357.298] Information: event5  - E8:EC:A3:1D:7D:1D: device removed
+[ 47357.327] Information: UnloadModule: "libinput"
+[ 47361.723] Information: config/udev: Adding input device E8:EC:A3:1D:7D:1D (/dev/input/event5)
+[ 47361.723] Information: Using input driver 'libinput' for 'E8:EC:A3:1D:7D:1D'
+[ 47361.724] Information: event5  - E8:EC:A3:1D:7D:1D: is tagged by udev as: Keyboard
+[ 47361.724] Information: event5  - E8:EC:A3:1D:7D:1D: device is a keyboard
+[ 47361.724] Information: event5  - E8:EC:A3:1D:7D:1D: device removed
+[ 47361.748] Information: XINPUT: Adding extended input device "E8:EC:A3:1D:7D:1D" (type: KEYBOARD, id 9)
+[ 47361.749] Information: event5  - E8:EC:A3:1D:7D:1D: is tagged by udev as: Keyboard
+[ 47361.749] Information: event5  - E8:EC:A3:1D:7D:1D: device is a keyboard
+[ 49074.578] Information: config/udev: removing device E8:EC:A3:1D:7D:1D
+[ 49074.578] Information: event5  - E8:EC:A3:1D:7D:1D: device removed
+[ 49074.598] Information: UnloadModule: "libinput"
+[ 49075.090] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/mouse0)
+[ 49075.090] Information: No input driver specified, ignoring this device.
+[ 49075.090] Information: This device may have been added with another device file.
+[ 49075.115] Information: config/udev: Adding input device COMPANY USB Device System Control (/dev/input/event8)
+[ 49075.115] Information: Using input driver 'libinput' for 'COMPANY USB Device System Control'
+[ 49075.117] Information: event8  - COMPANY USB Device System Control: is tagged by udev as: Keyboard
+[ 49075.117] Information: event8  - COMPANY USB Device System Control: device is a keyboard
+[ 49075.118] Information: event8  - COMPANY USB Device System Control: device removed
+[ 49075.136] Information: XINPUT: Adding extended input device "COMPANY USB Device System Control" (type: KEYBOARD, id 9)
+[ 49075.138] Information: event8  - COMPANY USB Device System Control: is tagged by udev as: Keyboard
+[ 49075.138] Information: event8  - COMPANY USB Device System Control: device is a keyboard
+[ 49075.139] Information: config/udev: Adding input device COMPANY USB Device Keyboard (/dev/input/event7)
+[ 49075.139] Information: Using input driver 'libinput' for 'COMPANY USB Device Keyboard'
+[ 49075.140] Information: event7  - COMPANY USB Device Keyboard: is tagged by udev as: Keyboard
+[ 49075.140] Information: event7  - COMPANY USB Device Keyboard: device is a keyboard
+[ 49075.140] Information: event7  - COMPANY USB Device Keyboard: device removed
+[ 49075.161] Information: XINPUT: Adding extended input device "COMPANY USB Device Keyboard" (type: KEYBOARD, id 10)
+[ 49075.166] Information: event7  - COMPANY USB Device Keyboard: is tagged by udev as: Keyboard
+[ 49075.166] Information: event7  - COMPANY USB Device Keyboard: device is a keyboard
+[ 49075.174] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event10)
+[ 49075.174] Information: No input driver specified, ignoring this device.
+[ 49075.174] Information: This device may have been added with another device file.
+[ 49075.176] Information: config/udev: Adding input device COMPANY USB Device Consumer Control (/dev/input/event9)
+[ 49075.176] Information: Using input driver 'libinput' for 'COMPANY USB Device Consumer Control'
+[ 49075.181] Information: event9  - COMPANY USB Device Consumer Control: is tagged by udev as: Keyboard
+[ 49075.181] Information: event9  - COMPANY USB Device Consumer Control: device is a keyboard
+[ 49075.181] Information: event9  - COMPANY USB Device Consumer Control: device removed
+[ 49075.200] Information: libinput: COMPANY USB Device Consumer Control: needs a virtual subdevice
+[ 49075.200] Information: XINPUT: Adding extended input device "COMPANY USB Device Consumer Control" (type: MOUSE, id 11)
+[ 49075.210] Information: event9  - COMPANY USB Device Consumer Control: is tagged by udev as: Keyboard
+[ 49075.210] Information: event9  - COMPANY USB Device Consumer Control: device is a keyboard
+[ 49075.213] Information: Using input driver 'libinput' for 'COMPANY USB Device Consumer Control'
+[ 49075.213] Information: libinput: COMPANY USB Device Consumer Control: is a virtual subdevice
+[ 49075.213] Information: XINPUT: Adding extended input device "COMPANY USB Device Consumer Control" (type: KEYBOARD, id 12)
+[ 49075.221] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event5)
+[ 49075.221] Information: Using input driver 'libinput' for 'COMPANY USB Device'
+[ 49075.225] Information: event5  - COMPANY USB Device: is tagged by udev as: Keyboard
+[ 49075.225] Information: event5  - COMPANY USB Device: device is a keyboard
+[ 49075.226] Information: event5  - COMPANY USB Device: device removed
+[ 49075.240] Information: XINPUT: Adding extended input device "COMPANY USB Device" (type: KEYBOARD, id 13)
+[ 49075.246] Information: event5  - COMPANY USB Device: is tagged by udev as: Keyboard
+[ 49075.246] Information: event5  - COMPANY USB Device: device is a keyboard
+[ 49075.251] Information: config/udev: Adding input device COMPANY USB Device (/dev/input/event6)
+[ 49075.251] Information: Using input driver 'libinput' for 'COMPANY USB Device'
+[ 49075.313] Information: event6  - COMPANY USB Device: is tagged by udev as: Mouse
+[ 49075.313] Information: event6  - COMPANY USB Device: device is a pointer
+[ 49075.314] Information: event6  - COMPANY USB Device: device removed
+[ 49075.365] Information: XINPUT: Adding extended input device "COMPANY USB Device" (type: MOUSE, id 19)
+[ 49075.435] Information: event6  - COMPANY USB Device: is tagged by udev as: Mouse
+[ 49075.436] Information: event6  - COMPANY USB Device: device is a pointer
+[ 91035.041] Information: event6  - COMPANY USB Device: SYN_DROPPED event - some input events have been lost.
+[ 97286.122] Information: config/udev: removing device COMPANY USB Device
+[ 97286.122] Information: event5  - COMPANY USB Device: device removed
+[ 97286.141] Information: UnloadModule: "libinput"
+[ 97286.189] Information: config/udev: removing device COMPANY USB Device
+[ 97286.189] Information: event6  - COMPANY USB Device: device removed
+[ 97286.237] Information: UnloadModule: "libinput"
+[ 97286.264] Information: config/udev: removing device COMPANY USB Device Keyboard
+[ 97286.264] Information: event7  - COMPANY USB Device Keyboard: device removed
+[ 97286.297] Information: UnloadModule: "libinput"
+[ 97286.323] Information: config/udev: removing device COMPANY USB Device System Control
+[ 97286.323] Information: event8  - COMPANY USB Device System Control: device removed
+[ 97286.350] Information: UnloadModule: "libinput"
+[ 97286.366] Information: config/udev: removing device COMPANY USB Device Consumer Control
+[ 97286.382] Information: UnloadModule: "libinput"
+[ 97286.382] Information: config/udev: removing device COMPANY USB Device Consumer Control
+[ 97286.382] Information: event9  - COMPANY USB Device Consumer Control: device removed
+[ 97286.402] Information: UnloadModule: "libinput"

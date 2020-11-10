@@ -1,0 +1,180 @@
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2970] policy: auto-activating connection 'rabotyagi' (433ca75d-2881-43cb-a5d8-d892bfcf7d4b)
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2976] device (wlp2s0): Activation: starting connection 'rabotyagi' (433ca75d-2881-43cb-a5d8-d892bfcf7d4b)
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2977] device (wlp2s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2983] manager: NetworkManager state is now CONNECTING
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2988] device (wlp2s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2992] device (wlp2s0): Activation: (wifi) access point 'rabotyagi' has security, but secrets are required.
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.2992] device (wlp2s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3293] device (wlp2s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3297] device (wlp2s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3301] device (wlp2s0): Activation: (wifi) connection 'rabotyagi' has security, and secrets exist.  No new secrets needed.
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3302] Config: added 'ssid' value 'rabotyagi'
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3302] Config: added 'scan_ssid' value '1'
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3302] Config: added 'bgscan' value 'simple:30:-80:86400'
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3302] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK'
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3302] Config: added 'auth_alg' value 'OPEN'
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3302] Config: added 'psk' value '<hidden>'
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3504] device (wlp2s0): supplicant interface state: inactive -> authenticating
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3505] device (p2p-dev-wlp2s0): supplicant management interface state: inactive -> authenticating
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3789] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3789] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3960] device (wlp2s0): supplicant interface state: associating -> associated
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.3960] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> associated
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4829] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4829] device (p2p-dev-wlp2s0): supplicant management interface state: associated -> 4-way handshake
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4968] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4969] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "rabotyagi"
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4969] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4971] device (wlp2s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.4975] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.5422] dhcp4 (wlp2s0): state changed unknown -> bound
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.5438] device (wlp2s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6310] device (wlp2s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6313] device (wlp2s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6318] manager: NetworkManager state is now CONNECTED_LOCAL
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6343] manager: NetworkManager state is now CONNECTED_SITE
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6344] policy: set 'rabotyagi' (wlp2s0) as default for IPv4 routing and DNS
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6360] device (wlp2s0): Activation: successful, device activated.
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.6367] manager: NetworkManager state is now CONNECTED_GLOBAL
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.7067] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.7660] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.8112] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.9167] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.9617] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:09:39 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413779.9973] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:09:41 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413781.0036] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 00:12:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413931.9942] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+Sep 30 00:12:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413931.9944] device (enp1s0): state change: unavailable -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+Sep 30 00:12:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413932.0162] device (p2p-dev-wlp2s0): state change: disconnected -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+Sep 30 00:12:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601413932.0168] manager: NetworkManager state is now ASLEEP
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448730.8016] dhcp4 (wlp2s0): state changed bound -> expire
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448730.8016] device (wlp2s0): DHCPv4: 480 seconds grace period started
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448730.9044] bluez5: NAP: removed interface 88:B1:11:4B:B3:91
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448730.9251] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448731.2324] bluez5: NAP: added interface 88:B1:11:4B:B3:91
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8010] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8012] device (wlp2s0): state change: activated -> unmanaged (reason 'sleeping', sys-iface-state: 'managed')
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8394] dhcp4 (wlp2s0): canceled DHCP transaction
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8394] dhcp4 (wlp2s0): state changed expire -> done
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8424] manager: NetworkManager state is now CONNECTED_GLOBAL
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8551] manager: NetworkManager state is now CONNECTED_LOCAL
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.8607] device (enp1s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'managed')
+Sep 30 09:52:12 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448732.9717] device (wlp2s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'managed')
+Sep 30 09:52:13 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448733.1491] device (p2p-dev-wlp2s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'managed')
+Sep 30 09:52:13 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448733.6512] sup-iface[0x55cb0afc14e0,wlp2s0]: supports 5 scan SSIDs
+Sep 30 09:52:13 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448733.6533] device (wlp2s0): supplicant interface state: starting -> ready
+Sep 30 09:52:13 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448733.6535] device (p2p-dev-wlp2s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+Sep 30 09:52:13 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448733.6545] device (wlp2s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+Sep 30 09:52:15 roma-HP-ProBook-440-G4 ModemManager[651]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.0/0000:01:00.0': not supported by any plugin
+Sep 30 09:52:15 roma-HP-ProBook-440-G4 ModemManager[651]: <info>  Couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.5/0000:02:00.0': not supported by any plugin
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7444] policy: auto-activating connection 'rabotyagi' (433ca75d-2881-43cb-a5d8-d892bfcf7d4b)
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7453] device (wlp2s0): Activation: starting connection 'rabotyagi' (433ca75d-2881-43cb-a5d8-d892bfcf7d4b)
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7455] device (wlp2s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7462] manager: NetworkManager state is now CONNECTING
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7472] device (wlp2s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7477] device (wlp2s0): Activation: (wifi) access point 'rabotyagi' has security, but secrets are required.
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7477] device (wlp2s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7904] device (wlp2s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7913] device (wlp2s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7922] device (wlp2s0): Activation: (wifi) connection 'rabotyagi' has security, and secrets exist.  No new secrets needed.
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7923] Config: added 'ssid' value 'rabotyagi'
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7923] Config: added 'scan_ssid' value '1'
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7923] Config: added 'bgscan' value 'simple:30:-80:86400'
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7923] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK'
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7924] Config: added 'auth_alg' value 'OPEN'
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.7924] Config: added 'psk' value '<hidden>'
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8156] device (wlp2s0): supplicant interface state: ready -> authenticating
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8156] device (p2p-dev-wlp2s0): supplicant management interface state: ready -> authenticating
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8188] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8191] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8610] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8611] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> 4-way handshake
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8906] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8907] device (wlp2s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "rabotyagi"
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8907] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8909] device (wlp2s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:29 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448749.8914] dhcp4 (wlp2s0): activation: beginning transaction (timeout in 45 seconds)
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.1760] dhcp4 (wlp2s0): state changed unknown -> bound
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.1789] device (wlp2s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3375] device (wlp2s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3382] device (wlp2s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3393] manager: NetworkManager state is now CONNECTED_LOCAL
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3437] manager: NetworkManager state is now CONNECTED_SITE
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3439] policy: set 'rabotyagi' (wlp2s0) as default for IPv4 routing and DNS
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3464] device (wlp2s0): Activation: successful, device activated.
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.3480] manager: NetworkManager state is now CONNECTED_GLOBAL
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.6323] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.7524] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 09:52:30 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448750.9208] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 09:52:31 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448751.0574] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 09:52:31 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448751.1229] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 09:52:31 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448751.1787] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 09:52:31 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601448751.9331] audit: op="statistics" arg="refresh-rate-ms" pid=1250 uid=1000 result="success"
+Sep 30 10:04:04 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449444.9099] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 10:04:04 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449444.9100] device (p2p-dev-wlp2s0): supplicant management interface state: completed -> disconnected
+Sep 30 10:04:04 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449444.9903] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Sep 30 10:04:04 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449444.9904] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> scanning
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9394] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9395] device (p2p-dev-wlp2s0): supplicant management interface state: scanning -> authenticating
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9614] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9614] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9617] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9617] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> 4-way handshake
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9770] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 10:04:05 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449445.9791] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 10:05:55 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449555.8739] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 10:05:55 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449555.8740] device (p2p-dev-wlp2s0): supplicant management interface state: completed -> disconnected
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4053] device (wlp2s0): supplicant interface state: disconnected -> authenticating
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4060] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> authenticating
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4099] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4100] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4295] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4295] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> 4-way handshake
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4479] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 10:05:59 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449559.4492] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 10:06:04 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449564.2851] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 10:06:04 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449564.2852] device (p2p-dev-wlp2s0): supplicant management interface state: completed -> disconnected
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8270] device (wlp2s0): supplicant interface state: disconnected -> authenticating
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8270] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> authenticating
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8455] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8455] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8563] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8564] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> 4-way handshake
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.8726] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.9027] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.9083] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 10:06:07 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449567.9084] device (p2p-dev-wlp2s0): supplicant management interface state: completed -> disconnected
+Sep 30 10:06:08 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449568.0089] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Sep 30 10:06:08 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449568.0091] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> scanning
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.5956] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.5957] device (p2p-dev-wlp2s0): supplicant management interface state: scanning -> authenticating
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6255] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6258] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6274] device (wlp2s0): supplicant interface state: associating -> associated
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6274] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> associated
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6284] device (wlp2s0): supplicant interface state: associated -> 4-way handshake
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6285] device (p2p-dev-wlp2s0): supplicant management interface state: associated -> 4-way handshake
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6317] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 10:06:11 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449571.6341] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 10:06:14 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449574.9418] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 10:06:14 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449574.9418] device (p2p-dev-wlp2s0): supplicant management interface state: completed -> disconnected
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4003] device (wlp2s0): supplicant interface state: disconnected -> authenticating
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4004] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> authenticating
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4707] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4707] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4710] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4710] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> 4-way handshake
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4728] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 10:06:18 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449578.4778] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
+Sep 30 10:06:19 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449579.1393] device (wlp2s0): supplicant interface state: completed -> disconnected
+Sep 30 10:06:19 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449579.1394] device (p2p-dev-wlp2s0): supplicant management interface state: completed -> disconnected
+Sep 30 10:06:19 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449579.2221] device (wlp2s0): supplicant interface state: disconnected -> scanning
+Sep 30 10:06:19 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449579.2222] device (p2p-dev-wlp2s0): supplicant management interface state: disconnected -> scanning
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7129] device (wlp2s0): supplicant interface state: scanning -> authenticating
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7149] device (p2p-dev-wlp2s0): supplicant management interface state: scanning -> authenticating
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7503] device (wlp2s0): supplicant interface state: authenticating -> associating
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7504] device (p2p-dev-wlp2s0): supplicant management interface state: authenticating -> associating
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7506] device (wlp2s0): supplicant interface state: associating -> 4-way handshake
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7506] device (p2p-dev-wlp2s0): supplicant management interface state: associating -> 4-way handshake
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7899] device (wlp2s0): supplicant interface state: 4-way handshake -> completed
+Sep 30 10:06:22 roma-HP-ProBook-440-G4 NetworkManager[635]: <info>  [1601449582.7917] device (p2p-dev-wlp2s0): supplicant management interface state: 4-way handshake -> completed
