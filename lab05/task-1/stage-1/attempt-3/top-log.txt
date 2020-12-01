@@ -1,0 +1,970 @@
+MiB Mem :  11877,2 total,  10087,9 free,    535,7 used,   1253,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10902,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090784 148536  68084 S   6,2   1,2   1:16.67 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348128  72456  52924 S   0,0   0,6   2:39.82 Xorg
+10789 roma      20   0  406768  67784  55520 S   0,0   0,6   0:00.57 konsole
+
+MiB Mem :  11877,2 total,  10022,5 free,    604,8 used,   1249,9 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10837,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.69 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+10830 roma      20   0   79300  73292   3224 R 100,0   0,6   0:01.18 mem.sh
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.91 Xorg
+
+MiB Mem :  11877,2 total,   9895,7 free,    731,4 used,   1250,0 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10710,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  208264 202124   3224 R 100,0   1,7   0:03.35 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.69 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.93 Xorg
+
+MiB Mem :  11877,2 total,   9769,0 free,    858,7 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10584,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  339076 333068   3224 R 100,0   2,7   0:05.51 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.70 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.93 Xorg
+
+MiB Mem :  11877,2 total,   9642,0 free,    985,7 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10457,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  469888 463748   3224 R 100,0   3,8   0:07.67 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.70 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.93 Xorg
+
+MiB Mem :  11877,2 total,   9515,0 free,   1112,7 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10330,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  600700 594692   3224 R 100,0   4,9   0:09.83 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.70 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.93 Xorg
+
+MiB Mem :  11877,2 total,   9387,1 free,   1240,6 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10202,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  731512 725372   3224 R 100,0   6,0   0:11.99 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.71 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.94 Xorg
+
+MiB Mem :  11877,2 total,   9259,3 free,   1368,3 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.  10074,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  862192 856316   3224 R 100,0   7,0   0:14.16 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.72 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   6,7   0,6   2:39.95 Xorg
+
+MiB Mem :  11877,2 total,   9131,6 free,   1496,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9946,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0  992740 986732   3224 R  87,5   8,1   0:16.31 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.72 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.95 Xorg
+
+MiB Mem :  11877,2 total,   9004,2 free,   1623,6 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9819,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1123420   1,1g   3224 R 100,0   9,2   0:18.48 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.72 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.95 Xorg
+
+MiB Mem :  11877,2 total,   8875,9 free,   1751,8 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9691,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1253968   1,2g   3224 R 100,0  10,3   0:20.64 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.73 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.77 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.95 Xorg
+
+MiB Mem :  11877,2 total,   8748,0 free,   1879,8 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9563,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1384516   1,3g   3224 R 100,0  11,3   0:22.80 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.73 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.95 Xorg
+
+MiB Mem :  11877,2 total,   8620,2 free,   2007,6 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9435,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1515064   1,4g   3224 R  93,8  12,4   0:24.96 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.73 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.96 Xorg
+
+MiB Mem :  11877,2 total,   8492,5 free,   2135,3 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9307,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1645744   1,6g   3224 R  93,8  13,5   0:27.13 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.74 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.96 Xorg
+
+MiB Mem :  11877,2 total,   8364,6 free,   2263,1 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9179,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1776688   1,7g   3224 R 100,0  14,6   0:29.29 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.74 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.96 Xorg
+
+MiB Mem :  11877,2 total,   8236,6 free,   2391,1 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   9051,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 1907368   1,8g   3224 R 100,0  15,6   0:31.45 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.75 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.97 Xorg
+
+MiB Mem :  11877,2 total,   8109,4 free,   2518,4 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8924,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2037784   1,9g   3224 R 100,0  16,7   0:33.61 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.75 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.98 Xorg
+
+MiB Mem :  11877,2 total,   7981,7 free,   2646,1 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8796,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2168464   2,1g   3224 R 100,0  17,8   0:35.78 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.75 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.98 Xorg
+
+MiB Mem :  11877,2 total,   7853,7 free,   2774,0 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8668,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2298880   2,2g   3224 R 100,0  18,9   0:37.93 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.76 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.98 Xorg
+
+MiB Mem :  11877,2 total,   7726,0 free,   2901,7 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8541,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2429428   2,3g   3224 R 100,0  19,9   0:40.10 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.76 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.98 Xorg
+
+MiB Mem :  11877,2 total,   7598,3 free,   3029,3 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8413,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2559580   2,4g   3224 R 100,0  21,0   0:42.26 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.77 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.99 Xorg
+
+MiB Mem :  11877,2 total,   7470,5 free,   3157,3 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8285,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2690392   2,6g   3224 R  93,8  22,1   0:44.42 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.77 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.99 Xorg
+
+MiB Mem :  11877,2 total,   7342,6 free,   3285,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8157,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2820940   2,7g   3224 R  87,5  23,1   0:46.58 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.77 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.99 Xorg
+
+MiB Mem :  11877,2 total,   7214,6 free,   3413,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   8029,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 2951620   2,8g   3224 R 100,0  24,2   0:48.75 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.78 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:39.99 Xorg
+
+MiB Mem :  11877,2 total,   7087,1 free,   3540,7 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7902,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3082300   2,9g   3224 R 100,0  25,3   0:50.91 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.78 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.00 Xorg
+
+MiB Mem :  11877,2 total,   6959,4 free,   3668,4 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7774,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3212848   3,1g   3224 R 100,0  26,4   0:53.07 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.78 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.00 Xorg
+
+MiB Mem :  11877,2 total,   6831,4 free,   3796,4 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7646,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3343660   3,2g   3224 R  93,8  27,4   0:55.23 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.79 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.00 Xorg
+
+MiB Mem :  11877,2 total,   6703,0 free,   3924,8 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7518,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3474604   3,3g   3224 R  93,8  28,5   0:57.39 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.79 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.01 Xorg
+
+MiB Mem :  11877,2 total,   6575,0 free,   4052,8 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7390,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3605680   3,4g   3224 R 100,0  29,6   0:59.55 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   6,7   1,2   1:16.80 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.01 Xorg
+
+MiB Mem :  11877,2 total,   6447,3 free,   4180,5 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7262,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3736492   3,6g   3224 R 100,0  30,7   1:01.72 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.80 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.01 Xorg
+
+MiB Mem :  11877,2 total,   6319,1 free,   4308,7 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7134,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3867304   3,7g   3224 R 100,0  31,7   1:03.88 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.80 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   6,2   0,6   2:40.02 Xorg
+
+MiB Mem :  11877,2 total,   6190,8 free,   4436,9 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   7006,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 3997984   3,8g   3224 R 100,0  32,8   1:06.05 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.81 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.02 Xorg
+
+MiB Mem :  11877,2 total,   6062,8 free,   4564,9 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6878,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4129060   3,9g   3224 R 100,0  33,9   1:08.20 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.81 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.02 Xorg
+
+MiB Mem :  11877,2 total,   5935,4 free,   4692,4 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6750,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4259608   4,1g   3224 R 100,0  35,0   1:10.37 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.82 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.02 Xorg
+
+MiB Mem :  11877,2 total,   5807,9 free,   4819,8 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6623,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4390024   4,2g   3224 R 100,0  36,0   1:12.53 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.82 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.03 Xorg
+
+MiB Mem :  11877,2 total,   5679,4 free,   4948,3 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6494,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4520968   4,3g   3224 R  93,8  37,1   1:14.69 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.82 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.03 Xorg
+
+MiB Mem :  11877,2 total,   5551,8 free,   5075,9 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6367,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4651384   4,4g   3224 R  93,8  38,2   1:16.85 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.82 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.03 Xorg
+
+MiB Mem :  11877,2 total,   5423,8 free,   5203,9 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6239,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4782064   4,6g   3224 R  93,3  39,3   1:19.01 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.82 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.03 Xorg
+
+MiB Mem :  11877,2 total,   5296,5 free,   5331,2 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   6111,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 4912480   4,7g   3224 R 100,0  40,3   1:21.18 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.83 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.04 Xorg
+
+MiB Mem :  11877,2 total,   5168,8 free,   5458,9 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5984,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5042896   4,8g   3224 R 100,0  41,4   1:23.34 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.83 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.04 Xorg
+
+MiB Mem :  11877,2 total,   5040,8 free,   5586,8 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5856,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5173576   4,9g   3224 R  93,8  42,5   1:25.50 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.83 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.04 Xorg
+
+MiB Mem :  11877,2 total,   4913,4 free,   5714,3 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5728,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5303860   5,1g   3224 R 100,0  43,6   1:27.66 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.84 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.05 Xorg
+
+MiB Mem :  11877,2 total,   4785,1 free,   5842,5 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5600,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5434804   5,2g   3224 R 100,0  44,6   1:29.83 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.84 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.05 Xorg
+
+MiB Mem :  11877,2 total,   4657,4 free,   5970,3 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5472,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5565484   5,3g   3224 R 100,0  45,7   1:31.99 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.84 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.05 Xorg
+
+MiB Mem :  11877,2 total,   4529,5 free,   6098,2 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5344,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5696032   5,4g   3224 R  93,8  46,8   1:34.15 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.85 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.06 Xorg
+
+MiB Mem :  11877,2 total,   4402,3 free,   6225,4 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5217,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5826316   5,6g   3224 R  93,8  47,9   1:36.31 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.85 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.06 Xorg
+
+MiB Mem :  11877,2 total,   4274,3 free,   6353,4 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   5089,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 5957128   5,7g   3224 R 100,0  48,9   1:38.47 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   6,7   1,2   1:16.86 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348344  72684  52924 S   0,0   0,6   2:40.06 Xorg
+
+MiB Mem :  11877,2 total,   4156,4 free,   6471,5 used,   1249,3 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4971,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6087544   5,8g   3224 R 100,0  50,0   1:40.64 mem.sh
+ 1393 roma      20   0 2090784 148536  68084 S   0,0   1,2   1:16.86 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348244  72676  52916 S   0,0   0,6   2:40.06 Xorg
+
+MiB Mem :  11877,2 total,   4029,5 free,   6598,1 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4844,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6217960   5,9g   3224 R 100,0  51,1   1:42.80 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.87 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.07 Xorg
+
+MiB Mem :  11877,2 total,   3901,7 free,   6726,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4717,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6348640   6,0g   3224 R 100,0  52,1   1:44.96 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.87 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.07 Xorg
+
+MiB Mem :  11877,2 total,   3774,1 free,   6853,8 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4589,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6479320   6,2g   3224 R 100,0  53,2   1:47.12 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.87 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.08 Xorg
+
+MiB Mem :  11877,2 total,   3646,6 free,   6981,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4461,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6609868   6,3g   3224 R 100,0  54,3   1:49.28 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.88 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.08 Xorg
+
+MiB Mem :  11877,2 total,   3518,6 free,   7109,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4333,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6740680   6,4g   3224 R 100,0  55,4   1:51.44 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.88 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.08 Xorg
+
+MiB Mem :  11877,2 total,   3390,6 free,   7237,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4206,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 6871228   6,5g   3224 R  87,5  56,4   1:53.60 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.88 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.08 Xorg
+
+MiB Mem :  11877,2 total,   3262,9 free,   7364,9 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   4078,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7001644   6,7g   3224 R  93,8  57,5   1:55.77 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.89 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.09 Xorg
+
+MiB Mem :  11877,2 total,   3135,9 free,   7491,9 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3951,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7132060   6,8g   3224 R 100,0  58,6   1:57.93 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.89 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.09 Xorg
+
+MiB Mem :  11877,2 total,   3008,6 free,   7619,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3824,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7262476   6,9g   3224 R 100,0  59,7   2:00.09 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.90 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.78 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.09 Xorg
+
+MiB Mem :  11877,2 total,   2880,3 free,   7747,5 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3695,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7393024   7,0g   3224 R 100,0  60,7   2:02.26 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.90 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.09 Xorg
+
+MiB Mem :  11877,2 total,   2752,5 free,   7875,3 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3567,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7523176   7,2g   3224 R  93,8  61,8   2:04.42 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.91 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.09 Xorg
+
+MiB Mem :  11877,2 total,   2624,6 free,   8003,2 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3439,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7653856   7,3g   3224 R  93,8  62,9   2:06.58 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   6,2   1,2   1:16.92 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.11 Xorg
+
+MiB Mem :  11877,2 total,   2496,8 free,   8131,0 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3312,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7784404   7,4g   3224 R 100,0  64,0   2:08.74 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.92 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.11 Xorg
+
+MiB Mem :  11877,2 total,   2369,1 free,   8258,6 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3184,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 7915084   7,5g   3224 R 100,0  65,0   2:10.90 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.92 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.11 Xorg
+
+MiB Mem :  11877,2 total,   2240,9 free,   8386,9 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   3056,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8045500   7,7g   3224 R 100,0  66,1   2:13.07 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.92 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.11 Xorg
+
+MiB Mem :  11877,2 total,   2113,4 free,   8514,3 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2928,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8176048   7,8g   3224 R 100,0  67,2   2:15.23 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.93 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.11 Xorg
+
+MiB Mem :  11877,2 total,   1985,6 free,   8642,1 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2801,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8306728   7,9g   3224 R 100,0  68,2   2:17.39 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.93 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.11 Xorg
+
+MiB Mem :  11877,2 total,   1857,8 free,   8769,9 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2673,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8437012   8,0g   3224 R 100,0  69,3   2:19.55 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.93 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.12 Xorg
+
+MiB Mem :  11877,2 total,   1730,1 free,   8897,6 used,   1249,4 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2545,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8567692   8,2g   3224 R 100,0  70,4   2:21.72 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.94 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.13 Xorg
+
+MiB Mem :  11877,2 total,   1602,1 free,   9025,7 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2417,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8698372   8,3g   3224 R 100,0  71,5   2:23.87 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.94 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.13 Xorg
+
+MiB Mem :  11877,2 total,   1474,2 free,   9153,5 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2289,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8829052   8,4g   3224 R  87,5  72,5   2:26.03 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.95 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.13 Xorg
+
+MiB Mem :  11877,2 total,   1346,6 free,   9281,2 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2162,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 8959468   8,5g   3224 R 100,0  73,6   2:28.20 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.95 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.13 Xorg
+
+MiB Mem :  11877,2 total,   1219,3 free,   9408,4 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   2034,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9090016   8,7g   3224 R 100,0  74,7   2:30.36 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.95 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.13 Xorg
+
+MiB Mem :  11877,2 total,   1091,7 free,   9536,1 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1907,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9220564   8,8g   3224 R 100,0  75,8   2:32.52 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.95 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.13 Xorg
+
+MiB Mem :  11877,2 total,    964,0 free,   9663,8 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1779,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9351244   8,9g   3224 R 100,0  76,8   2:34.69 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.96 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.14 Xorg
+
+MiB Mem :  11877,2 total,    836,1 free,   9791,6 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1651,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9481660   9,0g   3224 R 100,0  77,9   2:36.85 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.96 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.15 Xorg
+
+MiB Mem :  11877,2 total,    708,7 free,   9918,9 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1524,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9612340   9,2g   3224 R 100,0  79,0   2:39.01 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.96 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.15 Xorg
+
+MiB Mem :  11877,2 total,    581,2 free,  10046,5 used,   1249,5 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1396,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9742756   9,3g   3224 R 100,0  80,1   2:41.17 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.97 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.15 Xorg
+
+MiB Mem :  11877,2 total,    454,3 free,  10173,1 used,   1249,8 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1269,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9872908   9,4g   3224 R 100,0  81,1   2:43.33 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.98 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72684  52924 S   0,0   0,6   2:40.16 Xorg
+
+MiB Mem :  11877,2 total,    326,6 free,  10300,9 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1142,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9769,0m   9,5g   3224 R  93,8  82,2   2:45.49 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.99 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72684  52924 S   0,0   0,6   2:40.16 Xorg
+
+MiB Mem :  11877,2 total,    198,4 free,  10429,1 used,   1249,6 buff/cache
+MiB Swap:   7813,0 total,   7270,9 free,    542,1 used.   1014,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0 9896,5m   9,7g   3224 R  93,8  83,3   2:47.66 mem.sh
+ 1393 roma      20   0 2090784 148524  68072 S   0,0   1,2   1:16.99 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72684  52924 S   0,0   0,6   2:40.16 Xorg
+
+MiB Mem :  11877,2 total,    259,6 free,  10632,3 used,    985,4 buff/cache
+MiB Swap:   7813,0 total,   7215,9 free,    597,1 used.    851,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0    9,8g   9,8g   3224 R  93,3  84,6   2:50.33 mem.sh
+ 1393 roma      20   0 2090784 148520  68068 S   0,0   1,2   1:17.00 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72680  52920 S   0,0   0,6   2:40.16 Xorg
+
+MiB Mem :  11877,2 total,    131,8 free,  10770,4 used,    975,0 buff/cache
+MiB Swap:   7813,0 total,   7205,7 free,    607,3 used.    723,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0    9,9g   9,9g   3224 R  93,8  85,6   2:52.51 mem.sh
+ 1393 roma      20   0 2090784 148520  68068 S   0,0   1,2   1:17.00 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72680  52920 S   0,0   0,6   2:40.17 Xorg
+
+MiB Mem :  11877,2 total,    147,9 free,  10920,5 used,    808,8 buff/cache
+MiB Swap:   7813,0 total,   7171,2 free,    641,8 used.    613,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   10,1g  10,0g   3224 R 100,0  86,6   2:54.67 mem.sh
+ 1393 roma      20   0 2090784 148508  68056 S   0,0   1,2   1:17.00 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.17 Xorg
+
+MiB Mem :  11877,2 total,    169,4 free,  11048,1 used,    659,7 buff/cache
+MiB Swap:   7813,0 total,   7160,2 free,    652,8 used.    508,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   10,2g  10,2g   3224 R 100,0  87,7   2:56.83 mem.sh
+ 1393 roma      20   0 2090784 148508  68056 S   0,0   1,2   1:17.01 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.17 Xorg
+
+MiB Mem :  11877,2 total,    147,6 free,  11163,3 used,    566,3 buff/cache
+MiB Swap:   7813,0 total,   7164,2 free,    648,8 used.    390,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   10,3g  10,3g   3224 R 100,0  88,7   2:58.98 mem.sh
+ 1393 roma      20   0 2090784 148496  68044 S   0,0   1,2   1:17.01 plasmashell
+10273 roma      20   0 1029016 103548  74460 S   0,0   0,9   0:01.79 kate
+ 9606 roma      20   0  599096  98912  65492 S   0,0   0,8   0:02.51 okular
+  903 root      20   0  348340  72676  52916 S   0,0   0,6   2:40.17 Xorg
+
+MiB Mem :  11877,2 total,    209,2 free,  11289,9 used,    378,1 buff/cache
+MiB Swap:   7813,0 total,   7171,7 free,    641,3 used.    241,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   10,4g  10,4g   3028 R 100,0  89,8   3:01.35 mem.sh
+ 1393 roma      20   0 2090784 125720  45268 S   0,0   1,0   1:17.02 plasmashell
+10273 roma      20   0 1029016  82148  53060 S   0,0   0,7   0:01.79 kate
+ 9606 roma      20   0  599096  77952  44532 S   0,0   0,6   0:02.51 okular
+  903 root      20   0  348340  72104  52344 S   0,0   0,6   2:40.19 Xorg
+
+MiB Mem :  11877,2 total,    147,1 free,  11418,7 used,    311,4 buff/cache
+MiB Swap:   7813,0 total,   7160,4 free,    652,6 used.    129,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   10,5g  10,5g   3028 R 100,0  90,8   3:03.51 mem.sh
+ 1393 roma      20   0 2090784 125356  44904 S   0,0   1,0   1:17.03 plasmashell
+10273 roma      20   0 1029016  81908  52820 S   0,0   0,7   0:01.79 kate
+ 9606 roma      20   0  599096  77508  44088 S   0,0   0,6   0:02.51 okular
+  903 root      20   0  348340  72104  52344 S   0,0   0,6   2:40.19 Xorg
+
+MiB Mem :  11877,2 total,    134,4 free,  11580,4 used,    162,5 buff/cache
+MiB Swap:   7813,0 total,   7170,2 free,    642,8 used.     37,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   10,7g  10,7g   2512 R  56,0  92,4   3:06.76 mem.sh
+ 1393 roma      20   0 2090784  91156  10704 S   0,0   0,7   1:17.03 plasmashell
+  903 root      20   0  348340  68240  48480 S   0,0   0,6   2:40.19 Xorg
+ 9606 roma      20   0  599096  46928  13508 S   0,0   0,4   0:02.51 okular
+10273 roma      20   0 1029016  45620  16532 S   0,0   0,4   0:01.79 kate
+
+MiB Mem :  11877,2 total,    123,4 free,  11617,2 used,    136,7 buff/cache
+MiB Swap:   7813,0 total,   4874,2 free,   2938,8 used.     20,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   13,0g  11,0g    832 R   3,1  95,0   3:48.55 mem.sh
+  903 root      20   0  348340  33960  31176 S   0,0   0,3   2:40.21 Xorg
+ 1393 roma      20   0 2090784  24300   5696 D   0,0   0,2   1:17.11 plasmashell
+ 4764 roma      20   0  573168  12576   6752 D   0,0   0,1   0:41.60 dolphin
+ 1391 roma      20   0 1927332   7384   2044 S   0,0   0,1   0:04.72 krunner
+
+MiB Mem :  11877,2 total,    131,3 free,  11633,9 used,    112,0 buff/cache
+MiB Swap:   7813,0 total,    731,1 free,   7081,9 used.     22,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+10830 roma      20   0   17,4g  10,9g    580 R  23,2  94,1   5:09.61 mem.sh
+  903 root      20   0  348340  31664  27876 S   0,2   0,3   2:40.46 Xorg
+ 1393 roma      20   0 2090784  21924   2124 D   0,1   0,2   1:17.31 plasmashell
+ 4764 roma      20   0  573168  11300   5292 D   0,1   0,1   0:41.82 dolphin
+ 1391 roma      20   0 1927332   6876   1268 S   0,0   0,1   0:04.73 krunner
+
+MiB Mem :  11877,2 total,  11381,1 free,    275,5 used,    220,6 buff/cache
+MiB Swap:   7813,0 total,   6970,2 free,    842,8 used.  11318,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  903 root      20   0  348340  38192  32744 S   0,0   0,3   2:41.26 Xorg
+ 1393 roma      20   0 2090784  30696  10128 D   0,0   0,3   1:18.51 plasmashell
+ 4764 roma      20   0  573168  20596  14216 D   0,0   0,2   0:42.21 dolphin
+ 1383 roma      20   0 2974596  14688   8892 D   0,0   0,1   3:05.99 kwin_x11
+ 1938 roma      20   0  407320  13608  10712 S   0,0   0,1   0:14.48 konsole
+
+MiB Mem :  11877,2 total,  11310,2 free,    291,5 used,    275,6 buff/cache
+MiB Swap:   7813,0 total,   7014,7 free,    798,2 used.  11262,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090644  44308  18952 D   0,0   0,4   1:18.62 plasmashell
+  903 root      20   0  348240  41628  35104 S   0,0   0,3   2:41.30 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.26 dolphin
+ 1383 roma      20   0 2974804  22344  15524 D  13,3   0,2   3:06.08 kwin_x11
+10789 roma      20   0  406768  18504  16080 S   0,0   0,2   0:01.30 konsole
+
+MiB Mem :  11877,2 total,  11298,9 free,    295,6 used,    282,8 buff/cache
+MiB Swap:   7813,0 total,   7022,5 free,    790,5 used.  11252,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090644  48732  21300 D   0,0   0,4   1:18.67 plasmashell
+  903 root      20   0  348240  43148  35488 S  12,5   0,4   2:41.39 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.28 dolphin
+ 1383 roma      20   0 2974812  22344  15524 S   6,2   0,2   3:06.14 kwin_x11
+10789 roma      20   0  406768  18504  16080 S   6,2   0,2   0:01.33 konsole
+
+MiB Mem :  11877,2 total,  11290,2 free,    301,1 used,    285,8 buff/cache
+MiB Swap:   7813,0 total,   7025,5 free,    787,5 used.  11244,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090896  54712  24224 D   0,0   0,4   1:18.75 plasmashell
+  903 root      20   0  348336  44944  35488 S   0,0   0,4   2:41.79 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.30 dolphin
+ 1383 roma      20   0 2974772  22440  15532 S   0,0   0,2   3:06.44 kwin_x11
+10789 roma      20   0  406768  18848  16336 S   6,2   0,2   0:01.47 konsole
+
+MiB Mem :  11877,2 total,  11280,2 free,    304,2 used,    292,8 buff/cache
+MiB Swap:   7813,0 total,   7026,7 free,    786,2 used.  11236,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090896  57192  25188 D   0,0   0,5   1:18.82 plasmashell
+  903 root      20   0  348272  45280  35664 S  12,5   0,4   2:42.19 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.32 dolphin
+ 1383 roma      20   0 2974772  25296  17556 D   6,2   0,2   3:06.69 kwin_x11
+10789 roma      20   0  406768  18848  16336 S  12,5   0,2   0:01.58 konsole
+
+MiB Mem :  11877,2 total,  11271,5 free,    309,1 used,    296,6 buff/cache
+MiB Swap:   7813,0 total,   7029,0 free,    784,0 used.  11228,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2090896  58756  25816 S   0,0   0,5   1:18.85 plasmashell
+  903 root      20   0  348340  45704  35880 S  12,5   0,4   2:42.28 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.33 dolphin
+ 1383 roma      20   0 2974796  28160  19028 D   6,2   0,2   3:06.76 kwin_x11
+10789 roma      20   0  406768  19328  16520 D  12,5   0,2   0:01.62 konsole
+
+MiB Mem :  11877,2 total,  11264,6 free,    310,8 used,    301,8 buff/cache
+MiB Swap:   7813,0 total,   7032,7 free,    780,2 used.  11222,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2091200  61772  27408 S  31,2   0,5   1:19.06 plasmashell
+  903 root      20   0  348424  46092  36232 S  31,2   0,4   2:42.55 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.34 dolphin
+ 1383 roma      20   0 2974836  28324  19136 S  37,5   0,2   3:07.14 kwin_x11
+10789 roma      20   0  406768  19328  16520 S   0,0   0,2   0:01.62 konsole
+
+MiB Mem :  11877,2 total,  11263,9 free,    315,5 used,    297,8 buff/cache
+MiB Swap:   7813,0 total,   7033,7 free,    779,2 used.  11221,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 2091556  61988  27588 S   0,0   0,5   1:19.14 plasmashell
+  903 root      20   0  348416  49936  40056 S   0,0   0,4   2:42.85 Xorg
+ 4764 roma      20   0  573168  29808  22948 S   0,0   0,2   0:42.37 dolphin
+ 1383 roma      20   0 2974832  28672  19320 S   0,0   0,2   3:07.45 kwin_x11
+10789 roma      20   0  406768  19880  16916 S   0,0   0,2   0:01.64 konsole
+

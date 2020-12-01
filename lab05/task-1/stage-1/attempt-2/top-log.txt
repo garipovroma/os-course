@@ -1,0 +1,960 @@
+MiB Mem :  11877,2 total,  10559,4 free,    410,0 used,    907,8 buff/cache
+MiB Swap:   7813,0 total,   7009,9 free,    803,1 used.  11102,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550524  91012  48480 S   0,0   0,7   0:15.60 plasmashell
+ 4764 roma      20   0  495284  89220  72188 S   0,0   0,7   0:03.29 dolphin
+ 1383 roma      20   0 2947008  71340  54632 S   0,0   0,6   0:18.40 kwin_x11
+  903 root      20   0  343552  60492  44808 S   0,0   0,5   0:18.05 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10556,0 free,    409,7 used,    911,5 buff/cache
+MiB Swap:   7813,0 total,   7009,9 free,    803,1 used.  11099,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550696  91004  48472 S   0,0   0,7   0:15.70 plasmashell
+ 4764 roma      20   0  495284  89220  72188 S   6,2   0,7   0:03.39 dolphin
+ 1383 roma      20   0 2947080  71340  54632 S   6,2   0,6   0:18.58 kwin_x11
+  903 root      20   0  343552  60500  44816 S   6,2   0,5   0:18.21 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10565,2 free,    409,7 used,    902,3 buff/cache
+MiB Swap:   7813,0 total,   7009,9 free,    803,1 used.  11108,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550696  91004  48472 S  11,8   0,7   0:15.73 plasmashell
+ 4764 roma      20   0  495284  89220  72188 S   5,9   0,7   0:03.56 dolphin
+ 1383 roma      20   0 2947080  71340  54632 S   5,9   0,6   0:18.88 kwin_x11
+  903 root      20   0  343488  60500  44816 S   0,0   0,5   0:18.42 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10525,4 free,    444,3 used,    907,4 buff/cache
+MiB Swap:   7813,0 total,   7009,9 free,    803,1 used.  11068,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4896 roma      20   0 1022816  93656  67136 R  37,5   0,8   0:00.48 kate
+ 1393 roma      20   0 1550652  91344  48528 D   6,2   0,8   0:15.82 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.64 dolphin
+ 1383 roma      20   0 2947444  72020  54728 R  12,5   0,6   0:18.99 kwin_x11
+  903 root      20   0  343572  60500  44816 S   6,2   0,5   0:18.57 Xorg
+
+MiB Mem :  11877,2 total,  10495,6 free,    458,7 used,    922,9 buff/cache
+MiB Swap:   7813,0 total,   7010,2 free,    802,8 used.  11039,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4896 roma      20   0 1027508 101248  74096 S  29,4   0,8   0:00.72 kate
+ 1393 roma      20   0 1550652  94016  48756 D  11,8   0,8   0:16.03 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.65 dolphin
+ 1383 roma      20   0 2947452  72028  54732 S  23,5   0,6   0:19.30 kwin_x11
+  903 root      20   0  351516  68372  52644 S  17,6   0,6   0:18.82 Xorg
+
+MiB Mem :  11877,2 total,  10555,3 free,    418,2 used,    903,7 buff/cache
+MiB Swap:   7813,0 total,   7010,4 free,    802,6 used.  11100,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550652  98468  50188 D  12,5   0,8   0:16.27 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.75 dolphin
+ 1383 roma      20   0 2947188  71768  54732 S  18,8   0,6   0:19.73 kwin_x11
+  903 root      20   0  343580  60584  44856 S  12,5   0,5   0:19.14 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10545,9 free,    427,8 used,    903,5 buff/cache
+MiB Swap:   7813,0 total,   7010,4 free,    802,6 used.  11091,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550652 108340  50188 D  12,5   0,9   0:16.63 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.79 dolphin
+ 1383 roma      20   0 2947188  71768  54732 S  18,8   0,6   0:20.21 kwin_x11
+  903 root      20   0  343552  60560  44832 S  12,5   0,5   0:19.47 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10544,2 free,    428,7 used,    904,4 buff/cache
+MiB Swap:   7813,0 total,   7015,4 free,    797,6 used.  11089,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550924 108764  50300 S  18,8   0,9   0:17.01 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.91 dolphin
+ 1383 roma      20   0 2947188  71960  54736 S  12,5   0,6   0:20.60 kwin_x11
+  903 root      20   0  343552  60560  44832 S  18,8   0,5   0:19.73 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10540,5 free,    428,2 used,    908,5 buff/cache
+MiB Swap:   7813,0 total,   7015,4 free,    797,6 used.  11086,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550980 108892  50372 S   0,0   0,9   0:17.27 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.97 dolphin
+ 1383 roma      20   0 2947188  72012  54768 S   6,2   0,6   0:21.03 kwin_x11
+  903 root      20   0  339456  60560  44832 S   0,0   0,5   0:20.00 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10514,4 free,    454,6 used,    908,2 buff/cache
+MiB Swap:   7813,0 total,   7015,4 free,    797,6 used.  11060,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550980 108892  50372 S   0,0   0,9   0:17.29 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:03.98 dolphin
+ 1383 roma      20   0 2947188  72012  54768 S   0,0   0,6   0:21.07 kwin_x11
+  903 root      20   0  339456  60560  44832 S   0,0   0,5   0:20.03 Xorg
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10336,1 free,    601,5 used,    939,6 buff/cache
+MiB Swap:   7813,0 total,   7016,4 free,    796,6 used.  10881,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0  180148 174012   3080 R 100,0   1,4   0:02.53 mem.sh
+ 1393 roma      20   0 1550788 108784  50264 S   6,7   0,9   0:17.32 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.00 dolphin
+ 1383 roma      20   0 2969416  76096  54972 S  13,3   0,6   0:21.21 kwin_x11
+  903 root      20   0  335444  60268  44540 S  13,3   0,5   0:20.17 Xorg
+
+MiB Mem :  11877,2 total,  10205,6 free,    735,2 used,    936,4 buff/cache
+MiB Swap:   7813,0 total,   7016,9 free,    796,1 used.  10751,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0  316636 310500   3080 R 100,0   2,6   0:04.69 mem.sh
+ 1393 roma      20   0 1550936 108836  50316 S   0,0   0,9   0:17.38 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.00 dolphin
+ 1383 roma      20   0 2969576  76308  54980 S  20,0   0,6   0:21.44 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,  10059,8 free,    875,8 used,    941,7 buff/cache
+MiB Swap:   7813,0 total,   7016,9 free,    796,1 used.  10605,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0  458800 452796   3080 R 100,0   3,7   0:06.86 mem.sh
+ 1393 roma      20   0 1550936 108836  50316 S   0,0   0,9   0:17.39 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.01 dolphin
+ 1383 roma      20   0 2969660  76560  54992 R   6,7   0,6   0:21.61 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9936,4 free,   1014,6 used,    926,2 buff/cache
+MiB Swap:   7813,0 total,   7016,9 free,    796,1 used.  10482,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0  601228 595092   3080 R 100,0   4,9   0:09.03 mem.sh
+ 1393 roma      20   0 1550888 108792  50260 S   6,2   0,9   0:17.50 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.01 dolphin
+ 1383 roma      20   0 2969660  76560  54992 S  18,8   0,6   0:21.76 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9795,4 free,   1155,3 used,    926,4 buff/cache
+MiB Swap:   7813,0 total,   7016,9 free,    796,1 used.  10341,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0  744976 738972   3080 R 100,0   6,1   0:11.19 mem.sh
+ 1393 roma      20   0 1550888 108792  50260 S   0,0   0,9   0:17.51 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.02 dolphin
+ 1383 roma      20   0 2969660  76568  54992 S   0,0   0,6   0:21.92 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9651,5 free,   1299,5 used,    926,2 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.  10197,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0  892684 886548   3080 R 100,0   7,3   0:13.35 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.52 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.03 dolphin
+ 1383 roma      20   0 2969660  76572  54992 S   0,0   0,6   0:22.03 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9501,3 free,   1449,8 used,    926,0 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.  10047,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1046068   1,0g   3080 R  93,8   8,6   0:15.51 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.53 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.03 dolphin
+ 1383 roma      20   0 2969644  76556  54976 S   0,0   0,6   0:22.04 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9351,2 free,   1599,9 used,    926,1 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   9897,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1199584   1,1g   3080 R 100,0   9,8   0:17.67 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.53 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.03 dolphin
+ 1383 roma      20   0 2969644  76556  54976 S   0,0   0,6   0:22.04 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9200,6 free,   1749,9 used,    926,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   9747,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1353232   1,3g   3080 R 100,0  11,1   0:19.83 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.54 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   6,7   0,7   0:04.04 dolphin
+ 1383 roma      20   0 2969644  76556  54976 S   0,0   0,6   0:22.05 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   9050,5 free,   1900,0 used,    926,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   9597,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1506484   1,4g   3080 R 100,0  12,3   0:22.00 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.54 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.04 dolphin
+ 1383 roma      20   0 2969644  76556  54976 S   6,7   0,6   0:22.06 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8900,2 free,   2050,4 used,    926,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   9446,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1659868   1,6g   3080 R 100,0  13,6   0:24.16 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.54 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.05 dolphin
+ 1383 roma      20   0 2969644  76556  54976 S   0,0   0,6   0:22.06 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8750,0 free,   2200,7 used,    926,4 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   9296,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1813120   1,7g   3080 R 100,0  14,9   0:26.32 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.55 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.05 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.06 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8600,2 free,   2350,6 used,    926,4 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   9146,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 1966636   1,9g   3080 R 100,0  16,1   0:28.49 mem.sh
+ 1393 roma      20   0 1550792 108872  50340 S   0,0   0,9   0:17.55 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.05 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.07 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8450,5 free,   2501,0 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   8997,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 2120020   2,0g   3080 R 100,0  17,4   0:30.65 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.56 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.07 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.07 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8300,7 free,   2650,9 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   8847,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 2273536   2,2g   3080 R  93,8  18,6   0:32.80 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.56 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.07 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.08 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8150,6 free,   2801,0 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   8697,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 2427052   2,3g   3080 R 100,0  19,9   0:34.96 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.57 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.07 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.08 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   8000,9 free,   2950,6 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   8547,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 2580040   2,5g   3080 R 100,0  21,2   0:37.13 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.57 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.08 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.09 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   7851,5 free,   3100,0 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,2 free,    795,8 used.   8398,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 2733292   2,6g   3080 R 100,0  22,4   0:39.29 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.57 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.08 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.09 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   7701,7 free,   3249,8 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   8248,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 2886544   2,7g   3080 R 100,0  23,7   0:41.45 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.58 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.09 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.10 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   7551,5 free,   3399,9 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   8098,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3040456   2,9g   3080 R 100,0  24,9   0:43.62 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.59 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.09 dolphin
+ 1383 roma      20   0 2969604  76512  54932 S   0,0   0,6   0:22.10 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   7400,9 free,   3550,5 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   7947,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3193840   3,0g   3080 R  93,8  26,2   0:45.77 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.59 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.10 dolphin
+ 1383 roma      20   0 2969604  76512  54932 S   0,0   0,6   0:22.10 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   7250,3 free,   3701,1 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   7796,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3347488   3,2g   3080 R  93,8  27,5   0:47.93 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   6,2   0,9   0:17.60 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.10 dolphin
+ 1383 roma      20   0 2969604  76512  54932 S   0,0   0,6   0:22.11 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   7100,5 free,   3851,0 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   7647,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3501268   3,3g   3080 R 100,0  28,7   0:50.10 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.60 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.10 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.11 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6950,5 free,   4001,0 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   7497,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3654388   3,5g   3080 R 100,0  30,0   0:52.26 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.60 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.11 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.12 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6801,0 free,   4150,5 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   7347,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3807640   3,6g   3080 R 100,0  31,3   0:54.42 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.60 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.12 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.12 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6650,6 free,   4300,9 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,4 free,    795,6 used.   7197,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 3960892   3,8g   3080 R 100,0  32,5   0:56.58 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.61 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   6,7   0,7   0:04.13 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.12 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6500,5 free,   4450,9 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,7 free,    795,3 used.   7047,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 4114144   3,9g   3080 R  93,8  33,8   0:58.74 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.61 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.13 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.14 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6350,3 free,   4601,0 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   6897,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 4267660   4,1g   3080 R  93,8  35,0   1:00.90 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.62 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.13 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.14 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6199,7 free,   4751,6 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   6746,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 4420912   4,2g   3080 R 100,0  36,3   1:03.07 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.63 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.14 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.15 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   6048,8 free,   4902,5 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   6595,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 4574956   4,4g   3080 R 100,0  37,6   1:05.23 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.63 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.14 dolphin
+ 1383 roma      20   0 2969564  76512  54932 S   0,0   0,6   0:22.15 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   5898,8 free,   5052,6 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   6445,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 4728208   4,5g   3080 R 100,0  38,8   1:07.39 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.63 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.15 dolphin
+ 1383 roma      20   0 2969636  76512  54932 S   0,0   0,6   0:22.15 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   5749,2 free,   5202,1 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   6295,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 4881592   4,6g   3080 R 100,0  40,1   1:09.55 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.63 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.16 dolphin
+ 1383 roma      20   0 2969636  76512  54932 S   0,0   0,6   0:22.15 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   5599,0 free,   5352,3 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   6145,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5034976   4,8g   3080 R  93,8  41,3   1:11.71 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.64 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.16 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.16 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   5448,7 free,   5502,7 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5995,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5188492   4,9g   3080 R  93,8  42,6   1:13.87 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.64 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.17 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.17 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   5298,8 free,   5652,5 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5845,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5341876   5,1g   3080 R 100,0  43,9   1:16.04 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.64 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.17 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.17 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   5148,4 free,   5802,9 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5695,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5495392   5,2g   3080 R 100,0  45,1   1:18.20 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   6,7   0,9   0:17.66 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.17 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.18 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4997,8 free,   5953,5 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5544,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5648776   5,4g   3080 R 100,0  46,4   1:20.35 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.66 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.18 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.18 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4847,7 free,   6103,6 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5394,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5802424   5,5g   3080 R 100,0  47,7   1:22.52 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.66 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.18 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.18 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4697,8 free,   6253,5 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5244,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 5955676   5,7g   3080 R 100,0  48,9   1:24.68 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.66 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.19 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.19 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4548,0 free,   6403,3 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   5094,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 6109060   5,8g   3080 R  93,8  50,2   1:26.84 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.67 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.19 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.19 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4396,8 free,   6554,4 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4943,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 6262972   6,0g   3080 R  93,8  51,4   1:29.00 mem.sh
+ 1393 roma      20   0 1550596 108816  50284 S   0,0   0,9   0:17.67 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.20 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.19 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4247,2 free,   6704,1 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4794,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 6416356   6,1g   3080 R 100,0  52,7   1:31.17 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   6,7   0,9   0:17.68 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.21 dolphin
+ 1383 roma      20   0 2969564  76508  54928 S   0,0   0,6   0:22.21 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   4097,1 free,   6854,2 used,    925,9 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4643,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 6569740   6,3g   3080 R 100,0  54,0   1:33.32 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   0,0   0,9   0:17.68 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.21 dolphin
+ 1383 roma      20   0 2969540  76504  54924 S   0,0   0,6   0:22.21 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3966,3 free,   6985,9 used,    925,0 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4512,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 6722596   6,4g   3080 R 100,0  55,2   1:35.49 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   0,0   0,9   0:17.68 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.21 dolphin
+ 1383 roma      20   0 2969540  76504  54924 S   0,0   0,6   0:22.21 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3820,5 free,   7131,7 used,    925,0 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4366,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 6876112   6,6g   3080 R 100,0  56,5   1:37.65 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   0,0   0,9   0:17.70 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.22 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.22 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3670,6 free,   7281,6 used,    925,0 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4217,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7029496   6,7g   3080 R  93,8  57,7   1:39.81 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   0,0   0,9   0:17.70 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.22 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.22 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3520,5 free,   7431,7 used,    925,0 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   4066,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7183012   6,8g   3080 R 100,0  59,0   1:41.98 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   0,0   0,9   0:17.70 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.23 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.23 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3370,4 free,   7581,8 used,    925,0 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3916,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7336528   7,0g   3080 R 100,0  60,3   1:44.14 mem.sh
+ 1393 roma      20   0 1550592 108800  50268 S   0,0   0,9   0:17.70 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.24 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.23 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3221,4 free,   7730,0 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3767,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7488460   7,1g   3080 R 100,0  61,5   1:46.30 mem.sh
+ 1393 roma      20   0 1550728 108800  50268 S   0,0   0,9   0:17.72 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.24 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.25 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   3072,8 free,   7878,6 used,    925,7 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3619,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7641580   7,3g   3080 R 100,0  62,8   1:48.46 mem.sh
+ 1393 roma      20   0 1550728 108800  50268 S   0,0   0,9   0:17.72 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.24 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.25 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2922,7 free,   8028,7 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3469,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7794700   7,4g   3080 R  93,8  64,0   1:50.61 mem.sh
+ 1393 roma      20   0 1550728 108800  50268 S   0,0   0,9   0:17.72 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.25 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.26 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2773,6 free,   8178,3 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3320,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 7947028   7,6g   3080 R 100,0  65,3   1:52.78 mem.sh
+ 1393 roma      20   0 1550712 108804  50272 S   0,0   0,9   0:17.75 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.25 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.28 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2623,4 free,   8328,5 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3169,8 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 8100676   7,7g   3080 R 100,0  66,6   1:54.94 mem.sh
+ 1393 roma      20   0 1550712 108804  50272 S   0,0   0,9   0:17.75 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.26 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.28 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2474,8 free,   8476,6 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   3021,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 8252608   7,9g   3080 R 100,0  67,8   1:57.10 mem.sh
+ 1393 roma      20   0 1550692 108796  50264 S   0,0   0,9   0:17.76 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.26 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.30 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2324,6 free,   8626,8 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   2871,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 8406124   8,0g   3080 R 100,0  69,1   1:59.26 mem.sh
+ 1393 roma      20   0 1550692 108796  50264 S   0,0   0,9   0:17.77 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.27 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.31 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2174,6 free,   8776,8 used,    925,8 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   2721,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 8559244   8,2g   3080 R 100,0  70,3   2:01.42 mem.sh
+ 1393 roma      20   0 1550692 108796  50264 S   0,0   0,9   0:17.77 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.27 dolphin
+ 1383 roma      20   0 2969540  76500  54920 S   0,0   0,6   0:22.31 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   2026,1 free,   8925,8 used,    925,3 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   2572,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 8711308   8,3g   3080 R 100,0  71,6   2:03.59 mem.sh
+ 1393 roma      20   0 1550684 108788  50256 S   0,0   0,9   0:17.79 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.28 dolphin
+ 1383 roma      20   0 2969540  76500  54920 S   0,0   0,6   0:22.33 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   1875,8 free,   9076,0 used,    925,3 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   2422,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 8864428   8,4g   3080 R  93,8  72,8   2:05.75 mem.sh
+ 1393 roma      20   0 1550684 108788  50256 S   0,0   0,9   0:17.80 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.28 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.34 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   1725,6 free,   9226,3 used,    925,3 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   2272,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9018076   8,6g   3080 R 100,0  74,1   2:07.91 mem.sh
+ 1393 roma      20   0 1550684 108788  50256 S   0,0   0,9   0:17.80 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.28 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.34 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   1575,6 free,   9376,3 used,    925,3 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   2122,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9171460   8,7g   3080 R 100,0  75,4   2:10.07 mem.sh
+ 1393 roma      20   0 1550684 108788  50256 S   0,0   0,9   0:17.80 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.29 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.34 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   1425,7 free,   9526,1 used,    925,3 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1972,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9324712   8,9g   3080 R 100,0  76,6   2:12.23 mem.sh
+ 1393 roma      20   0 1550684 108788  50256 S   0,0   0,9   0:17.80 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.29 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.35 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   1275,6 free,   9676,3 used,    925,3 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1822,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9478360   9,0g   3080 R 100,0  77,9   2:14.40 mem.sh
+ 1393 roma      20   0 1550684 108788  50256 S   0,0   0,9   0:17.81 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.30 dolphin
+ 1383 roma      20   0 2969500  76500  54920 S   0,0   0,6   0:22.35 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,   1126,6 free,   9825,2 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1673,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9630028   9,2g   3080 R 100,0  79,1   2:16.56 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.83 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.30 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.37 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    977,0 free,   9974,8 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1523,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9783148   9,3g   3080 R  87,5  80,4   2:18.71 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.83 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.32 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.38 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    827,5 free,  10124,3 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1374,0 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9935344   9,5g   3080 R 100,0  81,6   2:20.88 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.84 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.32 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   6,7   0,6   0:22.39 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    677,9 free,  10273,9 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1224,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0 9852,1m   9,6g   3080 R 100,0  82,9   2:23.05 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.85 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.32 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.40 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    528,0 free,  10423,8 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.   1074,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0    9,8g   9,8g   3080 R 100,0  84,2   2:25.21 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.85 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.33 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.41 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    377,6 free,  10574,2 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.    924,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0    9,9g   9,9g   3080 R 100,0  85,4   2:27.37 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.86 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.33 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.41 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    227,9 free,  10723,9 used,    925,4 buff/cache
+MiB Swap:   7813,0 total,   7017,9 free,    795,1 used.    774,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0   10,1g  10,1g   3080 R  93,3  86,7   2:29.52 mem.sh
+ 1393 roma      20   0 1550680 108784  50252 S   0,0   0,9   0:17.86 plasmashell
+ 4764 roma      20   0  495424  89416  72368 S   0,0   0,7   0:04.34 dolphin
+ 1383 roma      20   0 2969572  76500  54920 S   0,0   0,6   0:22.41 kwin_x11
+ 4806 roma      20   0  412836  53456  42188 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    125,7 free,  10946,2 used,    805,3 buff/cache
+MiB Swap:   7813,0 total,   6972,6 free,    840,4 used.    598,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0   10,2g  10,2g   3080 R 100,0  88,2   2:32.25 mem.sh
+ 1393 roma      20   0 1550584 108740  50208 S   0,0   0,9   0:17.88 plasmashell
+ 4764 roma      20   0  495424  89388  72340 S   0,0   0,7   0:04.34 dolphin
+ 1383 roma      20   0 2969500  76452  54872 S   0,0   0,6   0:22.42 kwin_x11
+ 4806 roma      20   0  412836  53432  42164 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    188,7 free,  11099,1 used,    589,4 buff/cache
+MiB Swap:   7813,0 total,   6968,2 free,    844,8 used.    451,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0   10,4g  10,4g   3080 R 100,0  89,5   2:34.45 mem.sh
+ 1393 roma      20   0 1550584 108740  50208 S   0,0   0,9   0:17.88 plasmashell
+ 4764 roma      20   0  495424  89388  72340 S   0,0   0,7   0:04.34 dolphin
+ 1383 roma      20   0 2969500  76432  54852 S   0,0   0,6   0:22.45 kwin_x11
+ 4806 roma      20   0  412836  53432  42164 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    131,4 free,  11246,7 used,    499,1 buff/cache
+MiB Swap:   7813,0 total,   6963,0 free,    850,0 used.    309,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0   10,5g  10,5g   3080 R 100,0  90,7   2:36.61 mem.sh
+ 1393 roma      20   0 1550584 108740  50208 S   0,0   0,9   0:17.89 plasmashell
+ 4764 roma      20   0  495424  89368  72320 S   0,0   0,7   0:04.35 dolphin
+ 1383 roma      20   0 2969396  76440  54860 S   0,0   0,6   0:22.47 kwin_x11
+ 4806 roma      20   0  412836  53432  42164 S   0,0   0,4   0:00.21 thumbnail.so
+
+MiB Mem :  11877,2 total,    128,1 free,  11383,7 used,    365,4 buff/cache
+MiB Swap:   7813,0 total,   6962,7 free,    850,3 used.    164,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0   10,7g  10,7g   2900 R 100,0  92,0   2:38.80 mem.sh
+ 1393 roma      20   0 1550584  98136  39604 S   0,0   0,8   0:17.90 plasmashell
+ 4764 roma      20   0  495424  76444  59396 S   0,0   0,6   0:04.36 dolphin
+ 1383 roma      20   0 2969500  66984  45404 S   0,0   0,6   0:22.50 kwin_x11
+  903 root      20   0  328392  53072  37344 S   0,0   0,4   0:21.31 Xorg
+
+MiB Mem :  11877,2 total,    145,0 free,  11613,2 used,    119,1 buff/cache
+MiB Swap:   7813,0 total,   6650,9 free,   1162,1 used.     32,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 4987 roma      20   0   11,4g  11,0g    816 R  43,8  95,2   2:50.61 mem.sh
+  903 root      20   0  328392  33952  26496 S   0,1   0,3   0:21.32 Xorg
+ 1393 roma      20   0 1550584  16196   3608 S   0,1   0,1   0:17.94 plasmashell
+ 4764 roma      20   0  495424  11268   7684 S   0,1   0,1   0:04.38 dolphin
+ 1383 roma      20   0 2969404   9272   3240 D   0,0   0,1   0:22.55 kwin_x11
+
+MiB Mem :  11877,2 total,  11517,6 free,    243,8 used,    115,8 buff/cache
+MiB Swap:   7813,0 total,   6831,5 free,    981,5 used.  11418,4 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  18448    300 D   0,0   0,2   0:19.69 plasmashell
+  903 root      20   0  328296  13192  12844 D   0,0   0,1   0:22.28 Xorg
+ 4764 roma      20   0  495424   8352   4096 S   0,0   0,1   0:04.72 dolphin
+ 1383 roma      20   0 2969356   6596    440 S   0,0   0,1   0:22.89 kwin_x11
+ 1335 roma      20   0 1036636   5876   3348 S   0,0   0,0   0:06.35 kded5
+
+MiB Mem :  11877,2 total,  11416,2 free,    259,7 used,    201,3 buff/cache
+MiB Swap:   7813,0 total,   6841,8 free,    971,2 used.  11359,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  25584   7008 D   0,0   0,2   0:19.71 plasmashell
+  903 root      20   0  328292  19416  16980 D   0,0   0,2   0:22.31 Xorg
+ 4764 roma      20   0  495424  14448  10104 D   0,0   0,1   0:04.73 dolphin
+ 1938 roma      20   0  406904  12364   9932 D   0,0   0,1   0:02.98 konsole
+ 1383 roma      20   0 2969356   9468   3140 D   0,0   0,1   0:22.90 kwin_x11
+
+MiB Mem :  11877,2 total,  11401,9 free,    264,3 used,    211,0 buff/cache
+MiB Swap:   7813,0 total,   6843,0 free,    970,0 used.  11350,3 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  25584   7008 D   0,0   0,2   0:19.72 plasmashell
+  903 root      20   0  328292  20100  16980 D   0,0   0,2   0:22.32 Xorg
+ 4764 roma      20   0  495424  14448  10104 D   0,0   0,1   0:04.73 dolphin
+ 1938 roma      20   0  406904  13484  10940 D   0,0   0,1   0:02.99 konsole
+ 1383 roma      20   0 2969356  11516   5188 D   0,0   0,1   0:22.90 kwin_x11
+
+MiB Mem :  11877,2 total,  11389,6 free,    264,6 used,    223,0 buff/cache
+MiB Swap:   7813,0 total,   6845,8 free,    967,2 used.  11343,2 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  25872   7200 D   0,0   0,2   0:19.72 plasmashell
+  903 root      20   0  328292  21392  18032 S   0,0   0,2   0:22.33 Xorg
+ 1938 roma      20   0  406904  14944  12196 D   0,0   0,1   0:02.99 konsole
+ 4764 roma      20   0  495424  14448  10104 D   0,0   0,1   0:04.76 dolphin
+ 5412 roma      20   0   70452  12996  11660 S   0,0   0,1   0:00.03 kdeinit5
+
+MiB Mem :  11877,2 total,  11363,9 free,    268,9 used,    244,3 buff/cache
+MiB Swap:   7813,0 total,   6859,0 free,    954,0 used.  11322,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  27372   8372 D   0,0   0,2   0:19.73 plasmashell
+  903 root      20   0  328292  23088  18828 S   0,0   0,2   0:22.34 Xorg
+ 5427 roma      20   0   86512  21420  19460 D   0,0   0,2   0:00.02 klauncher
+ 1938 roma      20   0  406904  16520  13588 S   0,0   0,1   0:03.00 konsole
+ 4764 roma      20   0  495424  14864  10400 D   0,0   0,1   0:04.77 dolphin
+
+MiB Mem :  11877,2 total,  11337,3 free,    270,8 used,    269,0 buff/cache
+MiB Swap:   7813,0 total,   6878,3 free,    934,7 used.  11298,5 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  28028   8436 D   0,0   0,2   0:19.74 plasmashell
+  903 root      20   0  328292  23088  18828 D   6,7   0,2   0:22.36 Xorg
+ 4764 roma      20   0  495424  23000  18368 D  13,3   0,2   0:04.79 dolphin
+ 5427 roma      20   0   93884  22684  20480 S   0,0   0,2   0:00.04 klauncher
+ 1938 roma      20   0  406904  16520  13588 S   0,0   0,1   0:03.00 konsole
+
+MiB Mem :  11877,2 total,  11326,3 free,    273,6 used,    277,3 buff/cache
+MiB Swap:   7813,0 total,   6882,0 free,    931,0 used.  11291,6 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  30896  10552 D   0,0   0,3   0:19.75 plasmashell
+ 4764 roma      20   0  495424  27752  23092 D   0,0   0,2   0:04.80 dolphin
+  903 root      20   0  328292  24576  19660 S   0,0   0,2   0:22.38 Xorg
+ 5427 roma      20   0  167748  23828  21544 S   0,0   0,2   0:00.04 klauncher
+ 1383 roma      20   0 2969460  20292  13516 D   0,0   0,2   0:23.00 kwin_x11
+
+MiB Mem :  11877,2 total,  11317,9 free,    275,0 used,    284,3 buff/cache
+MiB Swap:   7813,0 total,   6885,8 free,    927,2 used.  11287,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  32172  11072 D   0,0   0,3   0:19.77 plasmashell
+ 4764 roma      20   0  495424  27752  23092 S   0,0   0,2   0:04.80 dolphin
+ 5427 roma      20   0  189212  26492  23828 D   6,2   0,2   0:00.09 klauncher
+  903 root      20   0  328292  24936  19724 S   0,0   0,2   0:22.41 Xorg
+ 1383 roma      20   0 2969500  20320  13536 S   0,0   0,2   0:23.02 kwin_x11
+
+MiB Mem :  11877,2 total,  11305,6 free,    277,9 used,    293,7 buff/cache
+MiB Swap:   7813,0 total,   6886,3 free,    926,7 used.  11284,7 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  35680  13772 D   0,0   0,3   0:19.78 plasmashell
+ 5427 roma      20   0  263652  33976  30508 S   6,2   0,3   0:00.15 klauncher
+ 4764 roma      20   0  495424  27752  23092 S   0,0   0,2   0:04.80 dolphin
+  903 root      20   0  328292  25072  19724 S   0,0   0,2   0:22.41 Xorg
+ 1383 roma      20   0 2969500  20320  13536 S   0,0   0,2   0:23.02 kwin_x11
+
+MiB Mem :  11877,2 total,  11295,0 free,    280,7 used,    301,5 buff/cache
+MiB Swap:   7813,0 total,   6887,5 free,    925,5 used.  11282,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550584  38636  15732 D   0,0   0,3   0:19.80 plasmashell
+ 5427 roma      20   0  274380  36084  32188 D  12,5   0,3   0:00.21 klauncher
+ 4764 roma      20   0  495424  27752  23092 D   0,0   0,2   0:04.80 dolphin
+  903 root      20   0  328292  25248  19724 S   0,0   0,2   0:22.44 Xorg
+ 1383 roma      20   0 2969492  20488  13696 S   0,0   0,2   0:23.03 kwin_x11
+
+MiB Mem :  11877,2 total,  11281,4 free,    287,4 used,    308,4 buff/cache
+MiB Swap:   7813,0 total,   6890,5 free,    922,5 used.  11273,1 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550512  44324  19432 S   6,7   0,4   0:19.87 plasmashell
+ 5427 roma      20   0  274452  36352  32372 S   0,0   0,3   0:00.24 klauncher
+ 4764 roma      20   0  495424  30056  25328 S   0,0   0,2   0:04.83 dolphin
+  903 root      20   0  328292  25248  19724 S   0,0   0,2   0:22.45 Xorg
+ 1383 roma      20   0 2969500  20820  13912 S   0,0   0,2   0:23.04 kwin_x11
+
+MiB Mem :  11877,2 total,  11264,9 free,    290,8 used,    321,5 buff/cache
+MiB Swap:   7813,0 total,   6896,5 free,    916,5 used.  11264,9 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 1393 roma      20   0 1550648  47280  20928 D   0,0   0,4   0:19.91 plasmashell
+ 5427 roma      20   0  274452  36352  32372 S   0,0   0,3   0:00.24 klauncher
+ 4764 roma      20   0  495424  30056  25328 S   0,0   0,2   0:04.84 dolphin
+  903 root      20   0  328388  27280  21044 S   0,0   0,2   0:22.47 Xorg
+ 1383 roma      20   0 2969500  20820  13912 S   0,0   0,2   0:23.06 kwin_x11
+

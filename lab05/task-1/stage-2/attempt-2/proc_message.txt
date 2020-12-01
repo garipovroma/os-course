@@ -1,0 +1,23 @@
+[ 1004.316428] [   2012]  1000  2012  4681273  2908580 37564416  1770420             0 mem.sh
+[ 1004.316450] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-4.scope,task=mem.sh,pid=2012,uid=1000
+[ 1004.316462] Out of memory: Killed process 2012 (mem.sh) total-vm:18725092kB, anon-rss:11634320kB, file-rss:0kB, shmem-rss:0kB
+[ 1004.633121] oom_reaper: reaped process 2012 (mem.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 1978.924750] [   4987]  1000  4987  4671208  2916448 37482496  1752477             0 mem.sh
+[ 1978.924802] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-4.scope,task=mem.sh,pid=4987,uid=1000
+[ 1978.924828] Out of memory: Killed process 4987 (mem.sh) total-vm:18684832kB, anon-rss:11665792kB, file-rss:0kB, shmem-rss:0kB
+[ 1979.259589] oom_reaper: reaped process 4987 (mem.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 4726.619835] mem2.sh invoked oom-killer: gfp_mask=0x100cca(GFP_HIGHUSER_MOVABLE), order=0, oom_score_adj=0
+[ 4726.619838] CPU: 2 PID: 8974 Comm: mem2.sh Not tainted 5.3.0-64-generic #58-Ubuntu
+[ 4726.620179] [   8974]  1000  8974  2370415  1474741 19034112   893401             0 mem2.sh
+[ 4726.620190] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-4.scope,task=mem2.sh,pid=8974,uid=1000
+[ 4726.620200] Out of memory: Killed process 8974 (mem2.sh) total-vm:9481660kB, anon-rss:5898964kB, file-rss:0kB, shmem-rss:0kB
+[ 4726.844838] oom_reaper: reaped process 8974 (mem2.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 6143.928682] [  10830]  1000 10830  4659097  2877850 37384192  1778965             0 mem.sh
+[ 6143.928692] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-4.scope,task=mem.sh,pid=10830,uid=1000
+[ 6143.928703] Out of memory: Killed process 10830 (mem.sh) total-vm:18636388kB, anon-rss:11511400kB, file-rss:0kB, shmem-rss:0kB
+[ 6144.268172] oom_reaper: reaped process 10830 (mem.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
+[ 6724.302596] [  11505]  1000 11505  2320057  1431019 18632704   886771             0 mem2.sh
+[ 7060.095422] [  11505]  1000 11505  4655071  2874378 37351424  1778430             0 mem2.sh
+[ 7060.095433] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/session-4.scope,task=mem2.sh,pid=11505,uid=1000
+[ 7060.095443] Out of memory: Killed process 11505 (mem2.sh) total-vm:18620284kB, anon-rss:11497512kB, file-rss:0kB, shmem-rss:0kB
+[ 7060.452681] oom_reaper: reaped process 11505 (mem2.sh), now anon-rss:0kB, file-rss:0kB, shmem-rss:0kB
